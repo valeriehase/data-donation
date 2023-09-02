@@ -7,9 +7,9 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Infos zum Workshop
+        text: Agenda
       - href: quellen.qmd
-        text: Weitere Quellen
+        text: Weitere Quellen & Tutorials
 
 format:
   html:

@@ -2,7 +2,11 @@
 title: "Digitale Datenspuren nutzbar machen"
 subtitle: "Datenspenden als Methode der Kommunikationswissenschaft"
 ---
-Dr. Valerie Hase (Ludwig-Maximilians-Universität München)
+Valerie Hase (Ludwig-Maximilians-Universität München)
+
+`r fontawesome::fa("github", "black")` [github.com/valeriehase](https://github.com/valeriehase)
+
+`r fontawesome::fa("globe", "black")` [valerie-hase.com](https://valerie-hase.com/)
 
 ## Agenda des Workshops
 
