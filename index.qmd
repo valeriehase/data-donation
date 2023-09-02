@@ -2,15 +2,26 @@
 title: "Digitale Datenspuren nutzbar machen"
 subtitle: "Datenspenden als Methode der Kommunikationswissenschaft"
 ---
+
+<hr>
+
 Valerie Hase (Ludwig-Maximilians-Universität München)
 
 Mehr Infos: `r fontawesome::fa("github", "black")` [github.com/valeriehase](https://github.com/valeriehase) & `r fontawesome::fa("globe", "black")` [valerie-hase.com](https://valerie-hase.com/)
 
 ## Zeitplan & Materialien
 
-1)  Sitzung 1️⃣: Begrüßung 
-    - [Folien - HTML](docs/01-begrüssung.html) oder [Folien - PDF](docs/01-begrüssung.pdf)
+|                |                                                           |                                                                                      |
+|-------------------|-----------------------------------|-------------------|
+| Uhrzeit ⏰     |                                                           |                                                                                      |
+| 11:00 -- 11:10 | 1️⃣ Begrüßung                                              | [Folien - HTML](docs/01-begrüssung.html) oder [Folien - PDF](docs/01-begrüssung.pdf) |
+| 11:10 -- 12:00 | 2️⃣ Einführung: digitale Datenspuren & Datenspenden        |                                                                                      |
+| 12:00 -- 12:15 | Kaffeepause ☕                                            |                                                                                      |
+| 12:15 -- 13:15 | 3️⃣ Datenspenden in der Praxis: Forschungsdesign & Analyse |                                                                                      |
+| 13:15 -- 13:30 | 4️⃣ Wrap-Up                                                |                                                                                      |
 
 ## Weiterführende Quellen
-(1) Haim, M. & __Hase__, V. (2023). Computational Methods und Tools für die Erhebung und Auswertung von Social-Media-Daten. In S. Stollfuß, L. Niebling, & F. Raczkowski (eds.), _Handbuch Digitale Medien und Methoden_. Springer. https://doi.org/10.1007/978-3-658-36629-2_41-1
-<hr>
+
+(1) Haim, M. & **Hase**, V. (2023). Computational Methods und Tools für die Erhebung und Auswertung von Social-Media-Daten. In S. Stollfuß, L. Niebling, & F. Raczkowski (Hrsg.), *Handbuch Digitale Medien und Methoden*. Springer. https://doi.org/10.1007/978-3-658-36629-2_41-1
+
+    <hr>
