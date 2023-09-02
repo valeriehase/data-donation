@@ -5,9 +5,13 @@ project:
 website:
   title: "Digitale Datenspuren: Workshop"
   navbar:
-    left:
-      - href: index.qmd
-        text: Infos zum Workshop
+    search: false
+    pinned: true
+    tools:
+      - icon: twitter
+        href: https://twitter.com/hase_va
+      - icon: github
+        href: https://github.com/valeriehase/data-donation
 
 format:
   html:
