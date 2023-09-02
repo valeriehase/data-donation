@@ -1,5 +1,61 @@
 [
   {
+    "objectID": "01-begrüssung.html#wer-seid-ihr",
+    "href": "01-begrüssung.html#wer-seid-ihr",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Wer seid ihr?",
+    "text": "Wer seid ihr?\nBitte die Hand heben 🤚, wenn ihr ….\n\n\nvon digitalen Datenspuren als Begriff bereits gehört habt\nmit APIs gearbeitet habt\nmit Datenspenden gearbeitet habt\nmit automatisierter Inhaltsanalyse gearbeitet habt\nR regelmäßig nutzt\nandere Programmiersprachen (z. B. Python) regelmäßig nutzt"
+  },
+  {
+    "objectID": "01-begrüssung.html#wer-bin-ich",
+    "href": "01-begrüssung.html#wer-bin-ich",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Wer bin ich?",
+    "text": "Wer bin ich?\n\nAkademische Rätin a. Z., LMU München (vorher: Universität Zürich, LSE, WWU Münster)\nFokus:\n\nCSS (automatisierte Inhaltsanalyse & digitale Datenspuren)\nDigitaler Journalismus\nKrisenkommunikation\n\nMehr Infos:\n\n github.com/valeriehase\n valerie-hase.com"
+  },
+  {
+    "objectID": "01-begrüssung.html#vielen-dank-für-die-organisation",
+    "href": "01-begrüssung.html#vielen-dank-für-die-organisation",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Vielen Dank für die Organisation 🙌",
+    "text": "Vielen Dank für die Organisation 🙌\nShoutout an: Mittelbaunetzwerk Journalismusforschung & Mittelbaunetzwerk Wissenschaftskommunikation\n\nJanine N. Blessing\nLea Sophia Lehner\nMichael Graßl\nNils Bienzeisler\nNina Fabiola Schumacher\nVera Katzenberger"
+  },
+  {
+    "objectID": "01-begrüssung.html#worum-geht-es-heute",
+    "href": "01-begrüssung.html#worum-geht-es-heute",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Worum geht es heute?",
+    "text": "Worum geht es heute?\n\n\n✅ Digitale Datenspuren als Typ von Daten verstehen\n✅ Datenspende als Methode des Datenzugangs verstehen\n✅ Überblick schaffen (Entscheidungen; Vor- & Nachteile)\n❌ Detailierte Implementierung (z.B. Datenspende-Tools)"
+  },
+  {
+    "objectID": "01-begrüssung.html#ablauf",
+    "href": "01-begrüssung.html#ablauf",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Ablauf",
+    "text": "Ablauf\n\n\n\n\n\n\n\n\nUhrzeit ⏰\n\n\n\n\n11:00 – 11:10\n1️⃣Begrüssung\n\n\n\n11:10 – 12:00\n2️⃣: Einführung–digitale Datenspuren & Datenspenden\n\n\n\n12:00 – 12:15\nKaffeepause ☕\n\n\n\n12:15 – 13:15\n3️⃣: Datenspenden in der Praxis: Forschungsdesign & Analyse\n\n\n\n13:15 – 13:30\n4️⃣: Wrap-Up"
+  },
+  {
+    "objectID": "01-begrüssung.html#zugriff-auf-workshop-material",
+    "href": "01-begrüssung.html#zugriff-auf-workshop-material",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Zugriff auf Workshop-Material",
+    "text": "Zugriff auf Workshop-Material\n\nGithub für alle Materialien: Link\nDirekter Download als ZIP-Ordner mit diesem Link\nFolien als PDF oder HTML"
+  },
+  {
+    "objectID": "01-begrüssung.html#r-packages",
+    "href": "01-begrüssung.html#r-packages",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "R Packages",
+    "text": "R Packages\nWer in Session 3️⃣ in R mitmachen möchte, kann sich gerne vorab folgende Pakete herunterladen:\n\n\nCode\ninstall.packages(c(\"tidyverse\",\n                   \"ggplot2\"))"
+  },
+  {
+    "objectID": "01-begrüssung.html#section",
+    "href": "01-begrüssung.html#section",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "",
+    "text": "Fragen? 🤔\n\n\n\n\nDigitale Datenspuren - JoFo/Wisskomm DGPuK 2023 - Valerie Hase"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Digitale Datenspuren nutzbar machen",
