@@ -1,0 +1,10 @@
+.Rhistory
+.Rapp.history
+.RData
+.Rproj.user
+.Ruserdata
+*_cache/
+/cache/
+.Renviron
+.DS_Store
+/.quarto/
