@@ -4,16 +4,10 @@ project:
 
 website:
   title: "Infos zum Workshop"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Agenda
-      - href: quellen.qmd
-        text: Weitere Quellen & Tutorials
 
 format:
   html:
-    theme: lux
+    theme: minty
     css: styles.css
-    toc: false
+    toc: true
 

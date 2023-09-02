@@ -8,7 +8,11 @@ Valerie Hase (Ludwig-Maximilians-Universität München)
 
 `r fontawesome::fa("globe", "black")` [valerie-hase.com](https://valerie-hase.com/)
 
-## Agenda des Workshops
+## Zeitplan & Materialien
 
 1)  Begrüssung 
     - [Folien](01-begrüssung.html)
+
+## Weitere Quellen
+(1) Haim, M. & __Hase__, V. (2023). Computational Methods und Tools für die Erhebung und Auswertung von Social-Media-Daten. In S. Stollfuß, L. Niebling, & F. Raczkowski (eds.), _Handbuch Digitale Medien und Methoden_. Springer. https://doi.org/10.1007/978-3-658-36629-2_41-1
+<hr>
