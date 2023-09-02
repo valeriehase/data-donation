@@ -3,11 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Tutorial"
+  title: "Infos zum Workshop"
   navbar:
     left:
       - href: index.qmd
         text: Infos zum Workshop
+      - href: quellen.qmd
+        text: Weitere Quellen
 
 format:
   html:

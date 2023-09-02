@@ -1,14 +1,10 @@
 ---
-title: "Digitale Datenspuren nutzbar machen: Datenspenden als Methode der Kommunikationswissenschaft"
+title: "Digitale Datenspuren nutzbar machen"
+subtitle: "Datenspenden als Methode der Kommunikationswissenschaft"
 ---
-
 Dr. Valerie Hase (Ludwig-Maximilians-Universität München)
 
 ## Agenda des Workshops
 
 1)  Begrüssung 
     - [Folien](01-begrüssung.html)
-
-## Weitere Quellen
-
-## Weitere Tutorials
