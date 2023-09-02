@@ -7,5 +7,5 @@ Dr. Valerie Hase (Ludwig-Maximilians-Universität München)
 ## Agenda des Workshops
 
 1)  Begrüssung 
-    - [Folien](01-begrüssung.html)
+    - [Folien](docs/qmd/01-begrüssung.html)
 
