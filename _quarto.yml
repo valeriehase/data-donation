@@ -3,11 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "Infos zum Workshop"
+  title: "Digitale Datenspuren: Workshop"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Infos zum Workshop
 
 format:
   html:
-    theme: minty
+    theme: lux
     css: styles.css
     toc: true
 
