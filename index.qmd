@@ -11,14 +11,13 @@ Mehr Infos: `r fontawesome::fa("github", "black")` [github.com/valeriehase](http
 
 ## Zeitplan & Materialien
 
-|                |                                                           |                                                                                      |
-|-------------------|-----------------------------------|-------------------|
-| Uhrzeit ⏰     |                                                           |                                                                                      |
-| 11:00 -- 11:10 | 1️⃣ Begrüßung                                              | [Folien - HTML](docs/01-begrüssung.html) oder [Folien - PDF](docs/01-begrüssung.pdf) |
-| 11:10 -- 12:00 | 2️⃣ Einführung: digitale Datenspuren & Datenspenden        |                                                                                      |
-| 12:00 -- 12:15 | Kaffeepause ☕                                            |                                                                                      |
-| 12:15 -- 13:15 | 3️⃣ Datenspenden in der Praxis: Forschungsdesign & Analyse |                                                                                      |
-| 13:15 -- 13:30 | 4️⃣ Wrap-Up                                                |                                                                                      |
+-   1️⃣ Begrüßung: [Folien - HTML](docs/01-begrüssung.html) oder [Folien - PDF](01-begrüssung.pdf)
+
+-   2️⃣ Einführung: digitale Datenspuren & Datenspenden
+
+-   3️⃣ Datenspenden in der Praxis: Forschungsdesign & Analyse
+
+-   4️⃣ Wrap-Up
 
 ## Weiterführende Quellen
 
