@@ -9,9 +9,11 @@ Valerie Hase (Ludwig-Maximilians-Universität München)
 
 Mehr Infos: `r fontawesome::fa("github", "black")` [github.com/valeriehase](https://github.com/valeriehase) & `r fontawesome::fa("globe", "black")` [valerie-hase.com](https://valerie-hase.com/)
 
-## Zeitplan & Materialien
+## Materialien
 
--   1️⃣ Begrüßung: [Folien - HTML](docs/01-begrüssung.html) oder [Folien - PDF](01-begrüssung.pdf)
+-   1️⃣ Begrüßung:
+    - [Folien - HTML](docs/01-begrüssung.html)
+    - [Folien - PDF](docs/01-begrüssung.pdf)
 
 -   2️⃣ Einführung: digitale Datenspuren & Datenspenden
 
