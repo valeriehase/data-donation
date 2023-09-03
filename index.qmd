@@ -3,6 +3,8 @@ title: "Digitale Datenspuren nutzbar machen"
 subtitle: "Datenspenden als Methode der Kommunikationswissenschaft"
 ---
 
+![Quelle: Foto von Sara Kurfeß auf Unsplash](images/social-media.jpg){fig-alt="image of smartphone" fig-align="center" width="300"}
+
 <hr>
 
 ## Infos zum Workshop
@@ -13,27 +15,27 @@ subtitle: "Datenspenden als Methode der Kommunikationswissenschaft"
 
 -   Workshop-Leitung: Valerie Hase (Ludwig-Maximilians-Universität München). Mehr Infos: `r fontawesome::fa("github", "black")` [github.com/valeriehase](https://github.com/valeriehase) & `r fontawesome::fa("globe", "black")` [valerie-hase.com](https://valerie-hase.com)
 
--   Organisation: `r fontawesome::fa("globe", "black")` [Mittelbaunetzwerk Journalismusforschung](https://mijofo.wordpress.com) & `r fontawesome::fa("globe", "black")` [Mittelbaunetzwerk Wissenschaftskommunikation](https://www.dgpuk.de/de/nachwuchsf%C3%B6rderung.html-1)
+-   Organisation: [Mittelbaunetzwerk Journalismusforschung](https://mijofo.wordpress.com) & [Mittelbaunetzwerk Wissenschaftskommunikation](https://www.dgpuk.de/de/nachwuchsf%C3%B6rderung.html-1)
 
 ## Materialien
 
-**Sitzung** 1️⃣: Begrüßung
+Sitzung 1️⃣: **Begrüßung**
 
 -   [Folien - HTML](docs/01-begrüssung.html)
 -   [Folien - PDF](pdf/01-begrüssung.pdf)
 
-**Sitzung** 2️⃣: Einführung: digitale Datenspuren & Datenspenden
+Sitzung 2️⃣: **Einführung: digitale Datenspuren & Datenspenden**
 
 -   [Folien - HTML](docs/02-einführung.html)
 -   [Folien - PDF](pdf/02-einführung.pdf)
 
-**Sitzung** 3️⃣: Datenspenden in der Praxis: Forschungsdesign & Analyse
+Sitzung 3️⃣: **Datenspenden in der Praxis: Forschungsdesign & Analyse**
 
 -   [Folien - HTML](docs/03-example-study.html)
 -   [Folien - PDF](pdf/03-example-study.pdf)
 -   [R Projekt & Daten](data/03-example-study.zip)
 
-**Sitzung** 4️⃣: Wrap-Up
+Sitzung 4️⃣: **Wrap-Up**
 
 -   [Folien - HTML](docs/04-wrap-up.html)
 -   [Folien - PDF](pdf/04-wrap-up.pdf)
