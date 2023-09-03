@@ -49,24 +49,31 @@
     "text": "Fragen? 🤔\n\n\n\n\nDigitale Datenspuren - JoFo/Wisskomm DGPuK 2023 - Valerie Hase"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#infos-zum-workshop",
+    "href": "index.html#infos-zum-workshop",
     "title": "Digitale Datenspuren nutzbar machen",
-    "section": "",
-    "text": "Valerie Hase (Ludwig-Maximilians-Universität München)\nMehr Infos:  github.com/valeriehase &  valerie-hase.com"
+    "section": "Infos zum Workshop",
+    "text": "Infos zum Workshop\nMethodenworkshop als Teil der Jahrestagung der Fachgruppen Wissenschaftskommunikation und Journalistik/Journalismusforschung der DGPuK 2023. Call for Participants\n📅 20. September 2023, 11:00 - 13:30 Uhr\nWorkshop-Leitung: Valerie Hase (Ludwig-Maximilians-Universität München). Mehr Infos:  github.com/valeriehase &  valerie-hase.com\nOrganisation:  Mittelbaunetzwerk Journalismusforschung &  Mittelbaunetzwerk Wissenschaftskommunikation"
   },
   {
     "objectID": "index.html#materialien",
     "href": "index.html#materialien",
     "title": "Digitale Datenspuren nutzbar machen",
     "section": "Materialien",
-    "text": "Materialien\n\n1️⃣ Begrüßung:\n\nFolien - HTML\nFolien - PDF sowie Folien - PDF\n\n2️⃣ Einführung: digitale Datenspuren & Datenspenden\n3️⃣ Datenspenden in der Praxis: Forschungsdesign & Analyse\n4️⃣ Wrap-Up"
+    "text": "Materialien\n\nSitzung 1️⃣: Begrüßung:\n\nFolien - HTML\nFolien - PDF\n\nSitzung 2️⃣: Einführung: digitale Datenspuren & Datenspenden\n\nFolien - HTML\nFolien - PDF\n\nSitzung 3️⃣: Datenspenden in der Praxis: Forschungsdesign & Analyse\n\nFolien - HTML\nFolien - PDF\nR Projekt & Daten\n\nSitzung 4️⃣: Wrap-Up\n\nFolien - HTML\nFolien - PDF"
   },
   {
-    "objectID": "index.html#weiterführende-quellen",
-    "href": "index.html#weiterführende-quellen",
+    "objectID": "index.html#weiterführende-tutorials",
+    "href": "index.html#weiterführende-tutorials",
     "title": "Digitale Datenspuren nutzbar machen",
-    "section": "Weiterführende Quellen",
-    "text": "Weiterführende Quellen\n\nHaim, M. & Hase, V. (2023). Computational Methods und Tools für die Erhebung und Auswertung von Social-Media-Daten. In S. Stollfuß, L. Niebling, & F. Raczkowski (Hrsg.), Handbuch Digitale Medien und Methoden. Springer. https://doi.org/10.1007/978-3-658-36629-2_41-1"
+    "section": "Weiterführende Tutorials",
+    "text": "Weiterführende Tutorials\n\nBail, C. A. (2020, Mai 29). What is Digital Trace Data? https://www.youtube.com/watch?v=uuSWQN7uYhk\n\nHase, V. (2023, Juli). Data Donations—Tutorial Automated Content Analysis. https://bookdown.org/valerie_hase/DataDonations-TextasData/\n\nLorenz-Spleen, P., & Jaursch, J. (2023, August). Researcher access to platform data under the DSA: Questions and answers. https://reclaimingautonomyonline.notion.site/reclaimingautonomyonline/Researcher-access-to-platform-data-under-the-DSA-Questions-and-answers-8f7390f3ae6b4aa7ad53d53158ed257c#01f69eac4b3e4286a1f1f21970eb3e55"
+  },
+  {
+    "objectID": "index.html#weiterführende-literatur-add-link-forschungsmonitor",
+    "href": "index.html#weiterführende-literatur-add-link-forschungsmonitor",
+    "title": "Digitale Datenspuren nutzbar machen",
+    "section": "Weiterführende Literatur (ADD Link Forschungsmonitor!!)",
+    "text": "Weiterführende Literatur (ADD Link Forschungsmonitor!!)\n\nAraujo, T., Ausloos, J., van Atteveldt, W., Loecherbach, F., Moeller, J., Ohme, J., Trilling, D., van de Velde, B., de Vreese, C., & Welbers, K. (2022). OSD2F: An Open-Source Data Donation Framework. Computational Communication Research, 4(2), 372–387. https://doi.org/10.5117/CCR2022.2.001.ARAU\n\nBoeschoten, L., Ausloos, J., Möller, J. E., Araujo, T., & Oberski, D. L. (2022). A framework for privacy preserving digital trace data collection through data donation. Computational Communication Research, 4(2), 388–423. https://doi.org/10.5117/CCR2022.2.002.BOES\n\nBreuer, J., Kmetty, Z., Haim, M., & Stier, S. (2022). User-centric approaches for collecting Facebook data in the ‘post-API age’: Experiences from two studies and recommendations for future research. Information, Communication & Society. Online first publication. https://doi.org/10.1080/1369118X.2022.2097015\n\nHaim, M. & Hase, V. (2023). Computational Methods und Tools für die Erhebung und Auswertung von Social-Media-Daten. In S. Stollfuß, L. Niebling, & F. Raczkowski (Hrsg.), Handbuch Digitale Medien und Methoden. Springer. https://doi.org/10.1007/978-3-658-36629-2_41-1\n\nHaim, M., Leiner, D., & Hase, V. (2023). Integrating Data Donations into Online Surveys. Medien & Kommunikationswissenschaft, 71(1–2), 130–137. https://doi.org/10.5771/1615-634X-2023-1-2-130\n\nKeusch, F., & Kreuter, F. (2021). Digital trace data. In U. Engel, A. Quan-Haase, S. X. Liu, & L. Lyberg, Handbook of Computational Social Science, Volume 1 (1. Aufl., S. 100–118). Routledge. https://doi.org/10.4324/9781003024583-8\n\nLazer, D., Hargittai, E., Freelon, D., Gonzalez-Bailon, S., Munger, K., Ognyanova, K., & Radford, J. (2021). Meaningful measures of human society in the twenty-first century. Nature, 595(7866), 189–196. https://doi.org/10.1038/s41586-021-03660-7\n\nOhme, J., Araujo, T., Boeschoten, L., Freelon, D., Ram, N., Reeves, B. B., & Robinson, T. N. (2023). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. Communication Methods and Measures. Online first publication. https://doi.org/10.1080/19312458.2023.2181319\n\nStier, S., Breuer, J., Siegers, P., & Thorson, K. (2020). Integrating Survey Data and Digital Trace Data: Key Issues in Developing an Emerging Field. Social Science Computer Review, 38(5), 503–516. https://doi.org/10.1177/0894439319843669\n\nvan Driel, I. I., Giachanou, A., Pouwels, J. L., Boeschoten, L., Beyens, I., & Valkenburg, P. M. (2022). Promises and Pitfalls of Social Media Data Donations. Communication Methods and Measures. Online first publication. https://doi.org/10.1080/19312458.2022.2109608"
   }
 ]
