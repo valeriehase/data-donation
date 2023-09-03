@@ -13,7 +13,7 @@ Mehr Infos: `r fontawesome::fa("github", "black")` [github.com/valeriehase](http
 
 -   1️⃣ Begrüßung:
     - [Folien - HTML](docs/01-begrüssung.html)
-    - [Folien - PDF](docs/01-begrüssung.pdf)
+    - [Folien - PDF](pdf/print.pdf) sowie [Folien - PDF](docs/pdf/print.pdf)
 
 -   2️⃣ Einführung: digitale Datenspuren & Datenspenden
 
