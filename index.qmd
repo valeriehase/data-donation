@@ -24,21 +24,26 @@ Sitzung 1️⃣: **Begrüßung**
 -   [Folien - HTML](docs/01-begrüssung.html)
 -   [Folien - PDF](pdf/01-begrüssung.pdf)
 
-Sitzung 2️⃣: **Einführung: digitale Datenspuren & Datenspenden**
+Sitzung 2️⃣: **Einführung: digitale Datenspuren**
 
--   [Folien - HTML](docs/02-einführung.html)
--   [Folien - PDF](pdf/02-einführung.pdf)
+-   [Folien - HTML](docs/02-einführung-datenspuren.html)
+-   [Folien - PDF](pdf/02-einführung-datenspuren.pdf)
 
-Sitzung 3️⃣: **Datenspenden in der Praxis: Forschungsdesign & Analyse**
+Sitzung 3️⃣: **Einführung:Datenspenden**
 
--   [Folien - HTML](docs/03-example-study.html)
--   [Folien - PDF](pdf/03-example-study.pdf)
+-   [Folien - HTML](docs/03-einführung-datenspenden.html)
+-   [Folien - PDF](pdf/03-einführung-datenspenden.pdf)
+
+Sitzung 4️⃣: **Datenspenden in der Praxis: Forschungsdesign & Analyse**
+
+-   [Folien - HTML](docs/04-example-study.html)
+-   [Folien - PDF](pdf/04-example-study.pdf)
 -   [R Projekt & Daten](data/03-example-study.zip)
 
-Sitzung 4️⃣: **Wrap-Up**
+Sitzung 5️⃣: **Wrap-Up**
 
--   [Folien - HTML](docs/04-wrap-up.html)
--   [Folien - PDF](pdf/04-wrap-up.pdf)
+-   [Folien - HTML](docs/05-wrap-up.html)
+-   [Folien - PDF](pdf/05-wrap-up.pdf)
 
 ## Weiterführende Tutorials
 

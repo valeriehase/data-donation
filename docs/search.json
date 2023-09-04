@@ -32,7 +32,7 @@
     "href": "01-begrüssung.html#ablauf",
     "title": "Digitale Datenspuren: Workshop",
     "section": "Ablauf",
-    "text": "Ablauf\n\n\n\n\n\n\n\n\nUhrzeit ⏰\n\n\n\n\n11:00 – 11:10\n1️⃣ Begrüßung\n\n\n\n11:10 – 12:00\n2️⃣ Einführung: digitale Datenspuren & Datenspenden\n\n\n\n12:00 – 12:15\nKaffeepause ☕\n\n\n\n12:15 – 13:15\n3️⃣ Datenspenden in der Praxis: Forschungsdesign & Analyse\n\n\n\n13:15 – 13:30\n4️⃣ Wrap-Up"
+    "text": "Ablauf\n\n\n\n\n\n\n\n\n\nUhrzeit ⏰\n\n\n\n\n\n11:00 – 11:10\n1️⃣ Begrüßung | |\n\n\n11:10 – 12:00\n2️⃣ Einführung: digitale Datenspuren | | | | 3️⃣ Einführung: Datenspenden | |\n\n\n12:00 – 12:15\nKaffeepause ☕\n\n\n\n\n12:15 – 13:15\n4️⃣ Datenspenden in der Praxis: Forschungsdesign & Analyse | |\n\n\n13:15 – 13:30\n5️⃣ Wrap-Up | |"
   },
   {
     "objectID": "01-begrüssung.html#r-packages",
@@ -47,6 +47,230 @@
     "title": "Digitale Datenspuren: Workshop",
     "section": "",
     "text": "Fragen? 🤔\n\n\n\n\nDigitale Datenspuren - JoFo/Wisskomm DGPuK 2023 - Valerie Hase"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#agenda",
+    "href": "02-einführung-datenspuren.html#agenda",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Agenda",
+    "text": "Agenda\n\nWas sind digitale Datenspuren?\nMit welchen Methoden kann ich auf digitale Datenspuren zugreifen?"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren",
+    "href": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "1. Was sind digitale Datenspuren?",
+    "text": "1. Was sind digitale Datenspuren?\n\nQuelle: Foto von Markus Winkler auf Unsplash"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#section",
+    "href": "02-einführung-datenspuren.html#section",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "",
+    "text": "Kennt ihr Beispiele für digitale Datenspuren? 🤔"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#beispiel-i",
+    "href": "02-einführung-datenspuren.html#beispiel-i",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Beispiel I",
+    "text": "Beispiel I\n\nSchumacher et al. (2023)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#beispiel-ii",
+    "href": "02-einführung-datenspuren.html#beispiel-ii",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Beispiel II",
+    "text": "Beispiel II\n\nSchützeneder & Graßl (2022)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#beispiel-iii",
+    "href": "02-einführung-datenspuren.html#beispiel-iii",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Beispiel III",
+    "text": "Beispiel III\n\nKravets et al. (2023)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren-1",
+    "href": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren-1",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Was sind digitale Datenspuren?",
+    "text": "Was sind digitale Datenspuren?\nDefinition 💡: Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen, die Rückschlusse auf digitale wie analoge Phänomene ermöglichen\n\n\n“records of activity (trace data) undertaken through an online information system” (Howison et al., 2011, S. 2)\n“individuals leave behavioural residue (unconscious traces of actions [.]) when they interact online” (Hinds & Joinson, 2018, S. 2)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren-2",
+    "href": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren-2",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Was sind digitale Datenspuren?",
+    "text": "Was sind digitale Datenspuren?\nDefinition 💡: Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen, die Rückschlusse auf digitale wie analoge Phänomene ermöglichen\n\n\nz.B. Tweets, Likes, Shares\nz.B. Geo-Daten (Standort teilen, Sportaktivitäten)\nz.B. digitale Zahlungen\nz.B. Spotify-Playlisten"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren-3",
+    "href": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren-3",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Was sind digitale Datenspuren?",
+    "text": "Was sind digitale Datenspuren?\nDefinition 💡: Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen\n\nz.B. Tweets, Likes, Shares\n\nBeispiel: Instagram Like"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren-4",
+    "href": "02-einführung-datenspuren.html#was-sind-digitale-datenspuren-4",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Was sind digitale Datenspuren?",
+    "text": "Was sind digitale Datenspuren?\nDefinition 💡: Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen\n\nz.B. Tweets, Likes, Shares\n\nBeispiel: Instagram Like"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#wo-lassen-sich-digitale-datenspuren-finden",
+    "href": "02-einführung-datenspuren.html#wo-lassen-sich-digitale-datenspuren-finden",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Wo lassen sich digitale Datenspuren finden?",
+    "text": "Wo lassen sich digitale Datenspuren finden?\n\n\nSocial Media Plattformen (z.B. Instagram)\nApps (z.B. Lauf-Apps)\nPayment-Systeme (z.B. Paypal)\nWearable Devices (z.B. Smart Watch)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#welche-daten-enthalten-digitale-datenspuren",
+    "href": "02-einführung-datenspuren.html#welche-daten-enthalten-digitale-datenspuren",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Welche Daten enthalten digitale Datenspuren?",
+    "text": "Welche Daten enthalten digitale Datenspuren?\nJe nach Datenzugang u.a. (Haim & Hase, 2023; Keusch & Kreuter, 2021; Ohme et al., 2023):\n\n\ndigitale Nutzerprofile/Einstellungen\ndigitale Aktivitäten (Nutzung, Nachrichten, Engagement, etc.)\ndigitales Targeting (Werbung, algorithmische inferierte Interessen)\nanaloge Aktivitäten (Reisen, Schlafen, Sport)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#was-können-wir-mit-digitalen-datenspuren-messen",
+    "href": "02-einführung-datenspuren.html#was-können-wir-mit-digitalen-datenspuren-messen",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Was können wir mit digitalen Datenspuren messen?",
+    "text": "Was können wir mit digitalen Datenspuren messen?\n\nvon individuellem Verhalten zu sozialen Interaktionen\nvon digitalem zu analogem Verhalten\n\n\nQuelle: Keusch & Kreuter, 2023, S. 102 - übersetzte Version"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#was-können-wir-mit-digitalen-datenspuren-messen-1",
+    "href": "02-einführung-datenspuren.html#was-können-wir-mit-digitalen-datenspuren-messen-1",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Was können wir mit digitalen Datenspuren messen?",
+    "text": "Was können wir mit digitalen Datenspuren messen?\n\n\nInternet-/Smartphone-Nutzung (Ohme et al., 2021; Scharkow, 2016; Wu-Ouyang & Chan, 2022)\nNachrichten-Nutzung (Reiss, 2022; Thorson et al., 2021)\nProzesse öffentlicher Meinungsbildung (Jürgens & Stark, 2022; Yan et al., 2022)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#warum-werden-digitale-datenspure-populärer",
+    "href": "02-einführung-datenspuren.html#warum-werden-digitale-datenspure-populärer",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Warum werden digitale Datenspure populärer?",
+    "text": "Warum werden digitale Datenspure populärer?\n\nProbleme bei Selbstauskünften, z. B. bei Umfragen\nVerfügbarkeit"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#warum-werden-digitale-datenspure-populärer-1",
+    "href": "02-einführung-datenspuren.html#warum-werden-digitale-datenspure-populärer-1",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Warum werden digitale Datenspure populärer?",
+    "text": "Warum werden digitale Datenspure populärer?\n\nProbleme bei Selbstauskünften, z. B. bei Umfragen\nVerfügbarkeit"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#warum-werden-digitale-datenspure-populärer-2",
+    "href": "02-einführung-datenspuren.html#warum-werden-digitale-datenspure-populärer-2",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Warum werden digitale Datenspure populärer?",
+    "text": "Warum werden digitale Datenspure populärer?\n\nProbleme bei Selbstauskünften, z. B. bei Umfragen\n\n„Wie viele Minuten am Tag nutzen Sie das Internet, um Nachrichten zu konsumieren?”\n\nQuelle: Foto von Scott Graham auf Unsplash\n\n„Internet”?\n„Nachrichten”?\n„wie viele Minuten”?"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#warum-werden-digitale-datenspure-populärer-3",
+    "href": "02-einführung-datenspuren.html#warum-werden-digitale-datenspure-populärer-3",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Warum werden digitale Datenspure populärer?",
+    "text": "Warum werden digitale Datenspure populärer?\n\nProbleme bei Selbstauskünften, z. B. bei Umfragen\n\nSelbstauskünfte wenig akkurat bzw. verzerrt - Datenspuren versprechen genauere Messungen (Parry et al., 2021; Scharkow, 2016; Wu-Ouyang & Chan, 2022)\nsinkende Teilnahmebereitschaft bei Unfragen (Luiten et al., 2020)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#warum-werden-digitale-datenspure-populärer-4",
+    "href": "02-einführung-datenspuren.html#warum-werden-digitale-datenspure-populärer-4",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Warum werden digitale Datenspure populärer?",
+    "text": "Warum werden digitale Datenspure populärer?\n\nProbleme bei Selbstauskünften, z. B. bei Umfragen\nVerfügbarkeit\n\nkostengünstig (z. B. APIs)\ngrosse Menge an Daten (“Big Data”)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#warum-werden-digitale-datenspure-populärer-5",
+    "href": "02-einführung-datenspuren.html#warum-werden-digitale-datenspure-populärer-5",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Warum werden digitale Datenspure populärer?",
+    "text": "Warum werden digitale Datenspure populärer?\n\nProbleme bei Selbstauskünften, z. B. bei Umfragen\nVerfügbarkeit\n\nAber: nicht alle dieser Punkte treffen tatsächlich zu bzw. sind vorteilhaft"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#vor--und-nachteile-digitaler-datenspuren",
+    "href": "02-einführung-datenspuren.html#vor--und-nachteile-digitaler-datenspuren",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Vor- und Nachteile digitaler Datenspuren",
+    "text": "Vor- und Nachteile digitaler Datenspuren\n\n\n✅ akkuratere Messungen durch Zeitstempel\n✅ z.T. Messung neuer Variablen (z.B. zu algorithmischer Inferenz)\n❌ weiterhin Verzerrungen durch Stichproben- und Messfehler\n❌ unklare theoretische Rückbindung\n❌ z.T. hohe Kosten für Implementierung\n❌ mehr Daten heisst nicht bessere Daten!"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#zusammenfassung-digitale-datenspuren",
+    "href": "02-einführung-datenspuren.html#zusammenfassung-digitale-datenspuren",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Zusammenfassung: Digitale Datenspuren 📚",
+    "text": "Zusammenfassung: Digitale Datenspuren 📚\n\nDefinition: Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen (z.B. Nutzung, Engagement mit Inhalten), die Rückschlusse auf digitale wie analoge Phänomene ermöglichen\nWeiterführende Literatur:\n\nKeusch & Kreuter (2021)\nHaim & Hase (2023)\nOhme et al. (2023)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#mit-welchen-methoden-kann-ich-auf-digitale-datenspuren-zugreifen",
+    "href": "02-einführung-datenspuren.html#mit-welchen-methoden-kann-ich-auf-digitale-datenspuren-zugreifen",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "2. Mit welchen Methoden kann ich auf digitale Datenspuren zugreifen?",
+    "text": "2. Mit welchen Methoden kann ich auf digitale Datenspuren zugreifen?\n\nQuelle: Foto von Markus Winkler auf Unsplash"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#section-1",
+    "href": "02-einführung-datenspuren.html#section-1",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "",
+    "text": "Welche methodischen Zugänge kennt ihr, um digitale Datenspuren zu sammeln? 🤔"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#methodische-zugänge",
+    "href": "02-einführung-datenspuren.html#methodische-zugänge",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Methodische Zugänge",
+    "text": "Methodische Zugänge\n\n\nAPI (Jünger, 2021)\nDatenspenden (Driel et al., 2022)\nKooperationen mit Plattformen (Wagner, 2023)\nScraping (Mitchell, 2018)\nTracking (Christner et al., 2022)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#methodische-zugänge-1",
+    "href": "02-einführung-datenspuren.html#methodische-zugänge-1",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Methodische Zugänge",
+    "text": "Methodische Zugänge\n\nMethodische Zugänge im Vergleich, eigene Darstellung"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#technische-veränderungen",
+    "href": "02-einführung-datenspuren.html#technische-veränderungen",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Technische Veränderungen",
+    "text": "Technische Veränderungen\n\n\nEinschränkung plattformseitiger Zugänge zu Daten\n\nEinstellung zahlreicher APIs (Bruns, 2019; Freelon, 2018)\nSorge über Verzerrung bei Zugang über APIs/Scraping (Buehling, 2023; Ho, 2020; Schatto-Eckrodt, 2022)\nKooperationen mit Plattformen sehr eingeschränkt möglich (Wagner, 2023)\n\nAufkommen nutzerseitiger Zugänge\n\nDatenspende\nTracking"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#rechtliche-veränderungen",
+    "href": "02-einführung-datenspuren.html#rechtliche-veränderungen",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Rechtliche Veränderungen",
+    "text": "Rechtliche Veränderungen\n\n\nEU verankert Recht auf eigene Daten in Art. 15 Datenschutz-Grundverordnung, kurz DSGVO\n\n“Die betroffene Person hat […] ein Recht auf Auskunft über diese personenbezogenen Daten” (Art. 15 (1)\n“Der Verantwortliche stellt eine Kopie der personenbezogenen Daten […] zur Verfügung” (Art. 15 (3))\n\nNutzer:innen müssen laut Art. 20 Daten übermitteln können: “Die betroffene Person hat das Recht, die sie betreffenden personenbezogenen Daten […] in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten” (Art. 20 (1))"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#rechtliche-veränderungen-1",
+    "href": "02-einführung-datenspuren.html#rechtliche-veränderungen-1",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Rechtliche Veränderungen",
+    "text": "Rechtliche Veränderungen\n\nEU verankert Recht auf eigene Daten in Art. 15 Datenschutz-Grundverordnung, kurz DSGVO\n\n“Die betroffene Person hat […] ein Recht auf Auskunft über diese personenbezogenen Daten” (Art. 15 (1)\n“Der Verantwortliche stellt eine Kopie der personenbezogenen Daten […] zur Verfügung” (Art. 15 (3))\n\nNutzer:innen müssen laut Art. 20 Daten übermitteln können: “Die betroffene Person hat das Recht, die sie betreffenden personenbezogenen Daten […] in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten” (Art. 20 (1))\n\n👉 Lösung: Plattformen bieten Daten-Pakete (DDPs) an, die Informationen über Nutzer:innen enthalten und von diesen heruntergeladen werden können.\n👉 Konsequenz: Die Wissenschaft nutzt diese DDPs im Rahmen von Datenspende-Studien."
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#zusammenfassung-datenzugänge",
+    "href": "02-einführung-datenspuren.html#zusammenfassung-datenzugänge",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Zusammenfassung: Datenzugänge 📚",
+    "text": "Zusammenfassung: Datenzugänge 📚\n\nZusammenfassung:\n\nzentrale Methoden u.a. APIs, Datenspenden, Kooperationen mit Plattformen, Scraping, Tracking\nzentrale Unterschiede: Kontrolle über Stichproben & Messungen durch Plattformen, Forschung (& Nutzer:innen); rechtlicher Rahmen\n\nWeiterführende Literatur:\n\nHaim & Hase (2023)\nOhme et al. (2023)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#section-2",
+    "href": "02-einführung-datenspuren.html#section-2",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "",
+    "text": "Fragen? 🤔"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#section-3",
+    "href": "02-einführung-datenspuren.html#section-3",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "",
+    "text": "Digitale Datenspuren - JoFo/Wisskomm DGPuK 2023 - Valerie Hase\n\n\n\nBruns, A. (2019). After the “APIcalypse”: Social media platforms and their fight against critical scholarly research. Information, Communication & Society, 22(11), 1544–1566. https://doi.org/10.1080/1369118X.2019.1637447\n\n\nBuehling, K. (2023). Message Deletion on Telegram: Affected Data Types and Implications for Computational Analysis. Communication Methods and Measures, 1–23. https://doi.org/10.1080/19312458.2023.2183188\n\n\nChristner, C., Urman, A., Adam, S., & Maier, M. (2022). Automated Tracking Approaches for Studying Online Media Use: A Critical Review and Recommendations. Communication Methods and Measures, 16(2), 79–95. https://doi.org/10.1080/19312458.2021.1907841\n\n\nDriel, I. I. van, Giachanou, A., Pouwels, J. L., Boeschoten, L., Beyens, I., & Valkenburg, P. M. (2022). Promises and Pitfalls of Social Media Data Donations. Communication Methods and Measures, 1–17. https://doi.org/10.1080/19312458.2022.2109608\n\n\nFreelon, D. (2018). Computational research in the post-API age. Political Communication, 35(4), 665–668. https://doi.org/10.1080/10584609.2018.1477506\n\n\nHaim, M., & Hase, V. (2023). Computational Methods und Tools für die Erhebung und Auswertung von Social-Media-Daten. In S. Stollfuß, L. Niebling, & F. Raczkowski (Eds.), Handbuch Digitale Medien und Methoden (pp. 1–20). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-36629-2_41-1\n\n\nHinds, J., & Joinson, A. N. (2018). What demographic attributes do our digital footprints reveal? A systematic review. PLOS ONE, 13(11), e0207112. https://doi.org/10.1371/journal.pone.0207112\n\n\nHo, J. C.-T. (2020). How biased is the sample? Reverse engineering the ranking algorithm of Facebook’s Graph application programming interface. Big Data & Society, 7(1), 205395172090587. https://doi.org/10.1177/2053951720905874\n\n\nHowison, J., Wiggins, A., & Crowston, K. (2011). Validity Issues in the Use of Social Network Analysis with Digital Trace Data. Journal of the Association for Information Systems, 12(12), 767–797. https://doi.org/10.17705/1jais.00282\n\n\nJünger, J. (2021). A brief history of APIs. In Handbook of Computational Social Science, Volume 2 (1st ed., pp. 17–32). Routledge. https://doi.org/10.4324/9781003025245-3\n\n\nJürgens, P., & Stark, B. (2022). Mapping Exposure Diversity: The Divergent Effects of Algorithmic Curation on News Consumption. Journal of Communication, jqac009. https://doi.org/10.1093/joc/jqac009\n\n\nKeusch, F., & Kreuter, F. (2021). Digital trace data. In Handbook of Computational Social Science, Volume 1 (1st ed., pp. 100–118). Routledge. https://doi.org/10.4324/9781003024583-8\n\n\nLuiten, A., Hox, J., & Leeuw, E. de. (2020). Survey Nonresponse Trends and Fieldwork Effort in the 21st Century: Results of an International Study across Countries and Surveys. Journal of Official Statistics, 36(3), 469–487. https://doi.org/10.2478/jos-2020-0025\n\n\nMitchell, R. (2018). Web scraping with Python: Collecting more data from the modern web (Second edition). O’Reilly.\n\n\nOhme, J., Araujo, T., Boeschoten, L., Freelon, D., Ram, N., Reeves, B. B., & Robinson, T. N. (2023). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. Communication Methods and Measures. https://doi.org/10.1080/19312458.2023.2181319\n\n\nOhme, J., Araujo, T., Vreese, C. H. de, & Piotrowski, J. T. (2021). Mobile data donations: Assessing self-report accuracy and sample biases with the iOS Screen Time function. Mobile Media & Communication, 9(2), 293–313. https://doi.org/10.1177/2050157920959106\n\n\nParry, D. A., Davidson, B. I., Sewall, C. J. R., Fisher, J. T., Mieczkowski, H., & Quintana, D. S. (2021). A systematic review and meta-analysis of discrepancies between logged and self-reported digital media use. Nature Human Behaviour, 5(11), 1535–1547. https://doi.org/10.1038/s41562-021-01117-5\n\n\nReiss, M. V. (2022). Dissecting Non-Use of Online News – Systematic Evidence from Combining Tracking and Automated Text Classification. Digital Journalism, 1–21. https://doi.org/10.1080/21670811.2022.2105243\n\n\nScharkow, M. (2016). The Accuracy of Self-Reported Internet Use—A Validation Study Using Client Log Data. Communication Methods and Measures, 10(1), 13–27. https://doi.org/10.1080/19312458.2015.1118446\n\n\nSchatto-Eckrodt, T. (2022). Hidden biases – The effects of unavailable content on Twitter on sampling quality. In Grenzen, Probleme und Lösungen bei der Stichprobenziehung (pp. 178–195). Halem.\n\n\nThorson, K., Cotter, K., Medeiros, M., & Pak, C. (2021). Algorithmic inference, political interest, and exposure to news and politics on Facebook. Information, Communication & Society, 24(2), 183–200. https://doi.org/10.1080/1369118X.2019.1642934\n\n\nWagner, M. W. (2023). Independence by permission. Science, 381(6656), 388–391. https://doi.org/10.1126/science.adi2430\n\n\nWu-Ouyang, B., & Chan, M. (2022). Overestimating or underestimating communication findings? Comparing self-reported with log mobile data by data donation method. Mobile Media & Communication, 205015792211371. https://doi.org/10.1177/20501579221137162\n\n\nYan, P., Schroeder, R., & Stier, S. (2022). Is there a link between climate change scepticism and populism? An analysis of web tracking and survey data from Europe and the US. Information, Communication & Society, 25(10), 1400–1439. https://doi.org/10.1080/1369118X.2020.1864005"
   },
   {
     "objectID": "index.html",
@@ -67,7 +291,7 @@
     "href": "index.html#materialien",
     "title": "Digitale Datenspuren nutzbar machen",
     "section": "Materialien",
-    "text": "Materialien\nSitzung 1️⃣: Begrüßung\n\nFolien - HTML\nFolien - PDF\n\nSitzung 2️⃣: Einführung: digitale Datenspuren & Datenspenden\n\nFolien - HTML\nFolien - PDF\n\nSitzung 3️⃣: Datenspenden in der Praxis: Forschungsdesign & Analyse\n\nFolien - HTML\nFolien - PDF\nR Projekt & Daten\n\nSitzung 4️⃣: Wrap-Up\n\nFolien - HTML\nFolien - PDF"
+    "text": "Materialien\nSitzung 1️⃣: Begrüßung\n\nFolien - HTML\nFolien - PDF\n\nSitzung 2️⃣: Einführung: digitale Datenspuren\n\nFolien - HTML\nFolien - PDF\n\nSitzung 3️⃣: Einführung:Datenspenden\n\nFolien - HTML\nFolien - PDF\n\nSitzung 4️⃣: Datenspenden in der Praxis: Forschungsdesign & Analyse\n\nFolien - HTML\nFolien - PDF\nR Projekt & Daten\n\nSitzung 5️⃣: Wrap-Up\n\nFolien - HTML\nFolien - PDF"
   },
   {
     "objectID": "index.html#weiterführende-tutorials",
