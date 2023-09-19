@@ -13,7 +13,7 @@ subtitle: "Datenspenden als Methode der Kommunikationswissenschaft"
 
 -   📅 20. September 2023, 11:00 - 13:30 Uhr
 
--   Workshop-Leitung: Valerie Hase (Ludwig-Maximilians-Universität München). Mehr Infos: `r fontawesome::fa("github", "black")` [github.com/valeriehase](https://github.com/valeriehase) & `r fontawesome::fa("globe", "black")` [valerie-hase.com](https://valerie-hase.com/)
+-   Workshop-Leitung: Valerie Hase (Ludwig-Maximilians-Universität München). Mehr Infos: [github.com/valeriehase](https://github.com/valeriehase) & [valerie-hase.com](https://valerie-hase.com/)
 
 -   Organisation: [Mittelbaunetzwerk Journalismusforschung](https://mijofo.wordpress.com) & [Mittelbaunetzwerk Wissenschaftskommunikation](https://www.dgpuk.de/de/nachwuchsf%C3%B6rderung.html-1)
 
@@ -34,14 +34,15 @@ Sitzung 3️⃣: **Einführung: Datenspenden**
 -   [Folien - HTML](docs/03-einführung-datenspenden.html)
 -   [Folien - PDF](pdf/03-einführung-datenspenden.pdf)
 
-Sitzung 4️⃣: **Datenspende-Studien aus Sicht der Nutzer:innen**
+Sitzung 4️⃣: **Datenspende-Studien aus Sicht von Nutzer:innen**
 
 -   [Folien - HTML](docs/04-study-user-perspective.html)
 -   [Folien - PDF](pdf/04-user-perspective.pdf)
+-   [Beispiel - lokale Version von OSD2F](data/DDT.zip)
 -   [Anleitung Download Daten - Facebook](pdf/04-anleitung-facebook.pdf)
 -   [Anleitung Download Daten - Instagram](pdf/04-anleitung-instagram.pdf)
 
-Sitzung 5️⃣: **Datenspende-Studien aus Sicht der Forscher:innen**
+Sitzung 5️⃣: **Datenspende-Studien aus Sicht von Forscher:innen**
 
 -   [Folien - HTML](docs/05-study-researcher-perspective.html)
 -   [Folien - PDF](pdf/05-researcher-perspective.pdf)

@@ -29,9 +29,7 @@ Sitzung 1️⃣: Begrüßung
 
 Valerie Hase (Ludwig-Maximilians-Universität München)
 
-`r fontawesome::fa("github", "black")` [github.com/valeriehase](https://github.com/valeriehase)
-
-`r fontawesome::fa("globe", "black")` [valerie-hase.com](https://valerie-hase.com/)
+👉 [github.com/valeriehase](https://github.com/valeriehase) & [valerie-hase.com](https://valerie-hase.com/)
 
 ## Wer seid ihr?
 
@@ -56,11 +54,7 @@ Bitte die Hand heben 🤚, wenn ihr ....
     -   Digitaler Journalismus
     -   Krisenkommunikation
 
--   Mehr Infos:
-
-    -   `r fontawesome::fa("github", "black")` [github.com/valeriehase](https://github.com/valeriehase)
-
-    -   `r fontawesome::fa("globe", "black")` [valerie-hase.com](https://valerie-hase.com/)
+-   Mehr Infos: [github.com/valeriehase](https://github.com/valeriehase) & [valerie-hase.com](https://valerie-hase.com/)
 
 ## Vielen Dank für die Organisation 🙌
 
@@ -79,35 +73,18 @@ Shoutout an: [Mittelbaunetzwerk Journalismusforschung](https://mijofo.wordpress.
 -   ✅ Digitale Datenspuren als *Typ* von Daten verstehen
 -   ✅ Datenspende als *Methode* des Datenzugangs verstehen
 -   ✅ Überblick schaffen (Entscheidungen; Vor- & Nachteile)
--   ❌ Detailierte Implementierung (z.B. Datenspende-Tools)
+-   ❌ Detailierte Implementierung (z.B. Server-Integration von Datenspende-Tools)
 :::
 
 ## Ablauf
 
-+----------------+-----------------------------------------------------------+----------------+
-| Uhrzeit ⏰     |                                                           |                |
-+----------------+-----------------------------------------------------------+----------------+
-| 11:00 -- 11:10 | 1️⃣ Begrüßung                                              |                |
-+----------------+-----------------------------------------------------------+----------------+
-| 11:10 -- 12:00 | 2️⃣ Einführung: digitale Datenspuren                       |                |
-|                |                                                           |                |
-|                | 3️⃣ Einführung: Datenspenden                               |                |
-+----------------+-----------------------------------------------------------+----------------+
-| 12:00 -- 12:15 | Kaffeepause ☕                                            |                |
-+----------------+-----------------------------------------------------------+----------------+
-| 12:15 -- 13:15 | 4️⃣ Datenspenden in der Praxis: Forschungsdesign & Analyse |                |
-+----------------+-----------------------------------------------------------+----------------+
-| 13:15 -- 13:30 | 5️⃣ Wrap-Up                                                |                |
-+----------------+-----------------------------------------------------------+----------------+
-
-## R Packages
-
-Wer in Session 3️⃣ in R mitmachen möchte, kann sich gerne vorab folgende Pakete herunterladen:
-
-```{r, eval = FALSE}
-install.packages(c("tidyverse",
-                   "ggplot2"))
-```
+|                |                                                                                                                     |
+|------------|-----------------------------------------------------------|
+|                |                                                                                                                     |
+| 11:00 -- 11:10 | 1️⃣ Begrüßung                                                                                                        |
+| 11:10 -- 12:00 | 2️⃣ Einführung: digitale Datenspuren; 3️⃣ Einführung: Datenspenden; 4️⃣ Datenspende-Studien aus Sicht von Nutzer:innen |
+| 12:00 -- 12:15 | Kaffeepause ☕                                                                                                      |
+| 12:15 -- 13:30 | 5️⃣ Datenspende-Studien aus Sicht von Forscher:innen; 6️⃣ Wrap-Up                                                     |
 
 ## 
 

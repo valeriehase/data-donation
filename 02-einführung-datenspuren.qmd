@@ -29,9 +29,7 @@ Sitzung 2️⃣: Einführung: digitale Datenspuren
 
 Valerie Hase (Ludwig-Maximilians-Universität München)
 
-`r fontawesome::fa("github", "black")` [github.com/valeriehase](https://github.com/valeriehase)
-
-`r fontawesome::fa("globe", "black")` [valerie-hase.com](https://valerie-hase.com/)
+👉 [github.com/valeriehase](https://github.com/valeriehase) & [valerie-hase.com](https://valerie-hase.com/)
 
 ## Agenda
 
@@ -63,7 +61,7 @@ Valerie Hase (Ludwig-Maximilians-Universität München)
 
 ## Was sind digitale Datenspuren?
 
-**Definition** 💡: **Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen, die Rückschlusse auf digitale wie analoge Phänomene ermöglichen**
+**Definition** 💡: *Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen, die Rückschlusse auf digitale wie analoge Phänomene ermöglichen*
 
 ::: incremental
 -   "records of activity (trace data) undertaken through an online information system" [@howison_validity_2011, S. 2]
@@ -137,17 +135,17 @@ Je nach Datenzugang u.a. [@engel_digital_2021; @stollfus_computational_2023; @oh
 -   Prozesse öffentlicher Meinungsbildung [@yan_is_2022; @jurgens_mapping_2022]
 :::
 
-## Warum werden digitale Datenspure populärer?
+## Warum werden digitale Datenspuren populärer?
 
 -   Probleme bei Selbstauskünften, z. B. bei Umfragen
 -   Verfügbarkeit
 
-## Warum werden digitale Datenspure populärer?
+## Warum werden digitale Datenspuren populärer?
 
 -   **Probleme bei Selbstauskünften, z. B. bei Umfragen**
 -   Verfügbarkeit
 
-## Warum werden digitale Datenspure populärer?
+## Warum werden digitale Datenspuren populärer?
 
 -   **Probleme bei Selbstauskünften, z. B. bei Umfragen**
 
@@ -161,20 +159,20 @@ Je nach Datenzugang u.a. [@engel_digital_2021; @stollfus_computational_2023; @oh
 -   „wie viele Minuten"?
 :::
 
-## Warum werden digitale Datenspure populärer?
+## Warum werden digitale Datenspuren populärer?
 
 -   **Probleme bei Selbstauskünften, z. B. bei Umfragen**
     -   Selbstauskünfte wenig akkurat bzw. verzerrt - Datenspuren versprechen genauere Messungen [@scharkow_accuracy_2016; @wu-ouyang_overestimating_2022; @parry_systematic_2021]
     -   sinkende Teilnahmebereitschaft bei Unfragen [@luiten_survey_2020]
 
-## Warum werden digitale Datenspure populärer?
+## Warum werden digitale Datenspuren populärer?
 
 -   Probleme bei Selbstauskünften, z. B. bei Umfragen
 -   **Verfügbarkeit**
     -   kostengünstig (z. B. APIs)
     -   grosse Menge an Daten ("Big Data")
 
-## Warum werden digitale Datenspure populärer?
+## Warum werden digitale Datenspuren populärer?
 
 -   Probleme bei Selbstauskünften, z. B. bei Umfragen
 -   Verfügbarkeit
