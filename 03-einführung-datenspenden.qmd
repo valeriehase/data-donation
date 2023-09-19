@@ -82,22 +82,22 @@ Beispiel-Studie mit Social-Media-Datenspenden
 
 ## Was ist neu an Daten aus DDPs?
 
-Im Vergleich zu Daten via APIs [@stollfus_computational_2023; @ohme_digital_2023] z.B.
+Im Vergleich zu Daten **via APIs** [@stollfus_computational_2023; @ohme_digital_2023] z.B.
 
 ::: incremental
 -   Kontrolle & informierte Einwilligung der Nutzer:innen, welche Daten Forschung nutzen darf
 -   z.T. vollständige längsschnittliche Daten ohne "Rate Limits" (z.B. seit erstmaliger Nutzung von Accounts)
--   z.T. neue Daten (z.B., wenn auch selten, passiver Nutzung; nicht-öffentliche Daten wie Nachrichten)
+-   z.T. neue Daten (z.B., wenn auch selten, passive Nutzung; nicht-öffentliche Daten wie Nachrichten)
 :::
 
 ## Was ist neu an Daten aus DDPs?
 
-Im Vergleich zu Daten via Tracking [@stollfus_computational_2023; @ohme_digital_2023] z.B.
+Im Vergleich zu Daten **via Tracking** [@stollfus_computational_2023; @ohme_digital_2023] z.B.
 
 ::: incremental
 -   retrospektive Erhebung, die längsschnittliche Daten und weniger Reaktivität ermöglicht
 -   z.T. neue Daten (z.B. algorithmische Inferenzen)
--   klarere Verankerung in EU-Recht (im Vgl. zu Rechtsstreitigkeiten bei Tracking) [@edelson_facebook_2021]
+-   klarere Verankerung in EU-Recht im Vgl. zu Rechtsstreitigkeiten bei z.B. Tracking [@edelson_facebook_2021]
 -   aber: ähnlich aufwendig für Befragte!
 :::
 
@@ -117,4 +117,4 @@ Im Vergleich zu Daten via Tracking [@stollfus_computational_2023; @ohme_digital_
 **Fragen?** 🤔
 :::
 
-## 
+## Quellen

@@ -71,7 +71,7 @@ Valerie Hase (Ludwig-Maximilians-Universität München)
 
 ## Was sind digitale Datenspuren?
 
-**Definition** 💡: **Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen, die Rückschlusse auf digitale wie analoge Phänomene ermöglichen**
+**Definition** 💡: *Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen, die Rückschlusse auf digitale wie analoge Phänomene ermöglichen*
 
 ::: incremental
 -   z.B. Tweets, Likes, Shares
@@ -82,7 +82,7 @@ Valerie Hase (Ludwig-Maximilians-Universität München)
 
 ## Was sind digitale Datenspuren?
 
-**Definition** 💡: **Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen**
+**Definition** 💡: *Aufzeichnung und Speicherung von Aktivitäten auf digitalen Plattformen*
 
 -   z.B. Tweets, **Likes**, Shares
 
@@ -162,7 +162,7 @@ Je nach Datenzugang u.a. [@engel_digital_2021; @stollfus_computational_2023; @oh
 ## Warum werden digitale Datenspuren populärer?
 
 -   **Probleme bei Selbstauskünften, z. B. bei Umfragen**
-    -   Selbstauskünfte wenig akkurat bzw. verzerrt - Datenspuren versprechen genauere Messungen [@scharkow_accuracy_2016; @wu-ouyang_overestimating_2022; @parry_systematic_2021]
+    -   Selbstauskünfte wenig akkurat bzw. verzerrt: Datenspuren versprechen genauere Messungen [@scharkow_accuracy_2016; @wu-ouyang_overestimating_2022; @parry_systematic_2021]
     -   sinkende Teilnahmebereitschaft bei Unfragen [@luiten_survey_2020]
 
 ## Warum werden digitale Datenspuren populärer?
@@ -278,4 +278,4 @@ Je nach Datenzugang u.a. [@engel_digital_2021; @stollfus_computational_2023; @oh
 **Fragen?** 🤔
 :::
 
-## 
+## Quellen

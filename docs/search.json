@@ -368,14 +368,14 @@
     "href": "03-einführung-datenspenden.html#was-ist-neu-an-daten-aus-ddps",
     "title": "Digitale Datenspuren: Workshop",
     "section": "Was ist neu an Daten aus DDPs?",
-    "text": "Was ist neu an Daten aus DDPs?\nIm Vergleich zu Daten via APIs (Haim & Hase, 2023; Ohme et al., 2023) z.B.\n\n\nKontrolle & informierte Einwilligung der Nutzer:innen, welche Daten Forschung nutzen darf\nz.T. vollständige längsschnittliche Daten ohne “Rate Limits” (z.B. seit erstmaliger Nutzung von Accounts)\nz.T. neue Daten (z.B., wenn auch selten, passiver Nutzung; nicht-öffentliche Daten wie Nachrichten)"
+    "text": "Was ist neu an Daten aus DDPs?\nIm Vergleich zu Daten via APIs (Haim & Hase, 2023; Ohme et al., 2023) z.B.\n\n\nKontrolle & informierte Einwilligung der Nutzer:innen, welche Daten Forschung nutzen darf\nz.T. vollständige längsschnittliche Daten ohne “Rate Limits” (z.B. seit erstmaliger Nutzung von Accounts)\nz.T. neue Daten (z.B., wenn auch selten, passive Nutzung; nicht-öffentliche Daten wie Nachrichten)"
   },
   {
     "objectID": "03-einführung-datenspenden.html#was-ist-neu-an-daten-aus-ddps-1",
     "href": "03-einführung-datenspenden.html#was-ist-neu-an-daten-aus-ddps-1",
     "title": "Digitale Datenspuren: Workshop",
     "section": "Was ist neu an Daten aus DDPs?",
-    "text": "Was ist neu an Daten aus DDPs?\nIm Vergleich zu Daten via Tracking (Haim & Hase, 2023; Ohme et al., 2023) z.B.\n\n\nretrospektive Erhebung, die längsschnittliche Daten und weniger Reaktivität ermöglicht\nz.T. neue Daten (z.B. algorithmische Inferenzen)\nklarere Verankerung in EU-Recht (im Vgl. zu Rechtsstreitigkeiten bei Tracking) (Edelson & McCoy, 2021)\naber: ähnlich aufwendig für Befragte!"
+    "text": "Was ist neu an Daten aus DDPs?\nIm Vergleich zu Daten via Tracking (Haim & Hase, 2023; Ohme et al., 2023) z.B.\n\n\nretrospektive Erhebung, die längsschnittliche Daten und weniger Reaktivität ermöglicht\nz.T. neue Daten (z.B. algorithmische Inferenzen)\nklarere Verankerung in EU-Recht im Vgl. zu Rechtsstreitigkeiten bei z.B. Tracking (Edelson & McCoy, 2021)\naber: ähnlich aufwendig für Befragte!"
   },
   {
     "objectID": "03-einführung-datenspenden.html#zusammenfassung-datenspenden",
@@ -557,7 +557,7 @@
     "href": "02-einführung-datenspuren.html#warum-werden-digitale-datenspuren-populärer-3",
     "title": "Digitale Datenspuren: Workshop",
     "section": "Warum werden digitale Datenspuren populärer?",
-    "text": "Warum werden digitale Datenspuren populärer?\n\nProbleme bei Selbstauskünften, z. B. bei Umfragen\n\nSelbstauskünfte wenig akkurat bzw. verzerrt - Datenspuren versprechen genauere Messungen (Parry et al., 2021; Scharkow, 2016; Wu-Ouyang & Chan, 2022)\nsinkende Teilnahmebereitschaft bei Unfragen (Luiten et al., 2020)"
+    "text": "Warum werden digitale Datenspuren populärer?\n\nProbleme bei Selbstauskünften, z. B. bei Umfragen\n\nSelbstauskünfte wenig akkurat bzw. verzerrt: Datenspuren versprechen genauere Messungen (Parry et al., 2021; Scharkow, 2016; Wu-Ouyang & Chan, 2022)\nsinkende Teilnahmebereitschaft bei Unfragen (Luiten et al., 2020)"
   },
   {
     "objectID": "02-einführung-datenspuren.html#warum-werden-digitale-datenspuren-populärer-4",
@@ -572,5 +572,425 @@
     "title": "Digitale Datenspuren: Workshop",
     "section": "Warum werden digitale Datenspuren populärer?",
     "text": "Warum werden digitale Datenspuren populärer?\n\nProbleme bei Selbstauskünften, z. B. bei Umfragen\nVerfügbarkeit\n\nAber: nicht alle dieser Punkte treffen tatsächlich zu bzw. sind vorteilhaft"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html",
+    "href": "05-study-researcher-perspective.html",
+    "title": "\nDigitale Datenspuren nutzbar machen\n",
+    "section": "",
+    "text": "Digitale Datenspuren nutzbar machen\nSitzung : Datenspende-Studien aus Sicht der Forscher:innen\nValerie Hase (Ludwig-Maximilians-Universität München)\n👉 github.com/valeriehase & valerie-hase.com"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#wie-laufen-datenspende-studien-aus-sicht-der-forscherinnen-ab",
+    "href": "05-study-researcher-perspective.html#wie-laufen-datenspende-studien-aus-sicht-der-forscherinnen-ab",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "1) Wie laufen Datenspende-Studien aus Sicht der Forscher:innen ab?",
+    "text": "1) Wie laufen Datenspende-Studien aus Sicht der Forscher:innen ab?\n\nQuelle: Foto von Markus Winkler auf Unsplash"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#ablauf---perspektive-der-forscherinnen",
+    "href": "05-study-researcher-perspective.html#ablauf---perspektive-der-forscherinnen",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Ablauf - Perspektive der Forscher:innen",
+    "text": "Ablauf - Perspektive der Forscher:innen\n\nWelche methodischen Entscheidungen müssen Forscher:innen treffen, die Datenspende-Studien durchführen wollen? 🤔"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#ablauf---perspektive-der-forschung",
+    "href": "05-study-researcher-perspective.html#ablauf---perspektive-der-forschung",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Ablauf - Perspektive der Forschung",
+    "text": "Ablauf - Perspektive der Forschung\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt I: Forschungsdesign",
+    "text": "Schritt I: Forschungsdesign\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-1",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-1",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt I: Forschungsdesign",
+    "text": "Schritt I: Forschungsdesign\nZentrale Entscheidungen:\n\n\nWelche theoretischen Fragen wollen & können wir beantworten?\nWelches Datenspende-Tool nutzen wir wie?\nWie wird die Datenspende in die Umfrage integriert?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---forschungsfragen",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---forschungsfragen",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt I: Forschungsdesign - Forschungsfragen",
+    "text": "Schritt I: Forschungsdesign - Forschungsfragen\n\nBitte überlegt euch eine Forschungsfrage/Hypothese, die ihr auf Basis einer Datenspende-Studie beantworten wollen würdet. 🤔"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-2",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-2",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt I: Forschungsdesign",
+    "text": "Schritt I: Forschungsdesign\nZentrale Entscheidungen:\n\nWelche theoretischen Fragen wollen & können wir beantworten?\nWelches Datenspende-Tool nutzen wir wie?\nWie wird die Datenspende in die Umfrage integriert?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-3",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-3",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt I: Forschungsdesign",
+    "text": "Schritt I: Forschungsdesign\nZentrale Entscheidungen:\n\nWelche theoretischen Fragen wollen & können wir beantworten?\n\nKönnen wir theoretische Konzepte mit Datenspenden operationalisieren?\nKönnen wir relevante Grundgesamtheiten abbilden?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt I: Forschungsdesign - Datenspende-Tool",
+    "text": "Schritt I: Forschungsdesign - Datenspende-Tool\nDatenspende-Tools\n\nPORT (Boeschoten et al., 2022) als Weiterentwicklung von OSD2F (Araujo et al., 2022) (Niederlande)\nData Donation Module (Pfiffner et al., 2022) (Schweiz)"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-1",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-1",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt I: Forschungsdesign - Datenspende-Tool",
+    "text": "Schritt I: Forschungsdesign - Datenspende-Tool\n\n\nTeilnehmer:innen laden DDPs hoch\nDaten werden lokal (d.h. auf Rechner der Teilnehmer:innen) gefiltert"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-2",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-2",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt I: Forschungsdesign - Datenspende-Tool",
+    "text": "Schritt I: Forschungsdesign - Datenspende-Tool\n\nTeilnehmer:innen laden DDPs hoch\nDaten werden lokal (d.h. auf Rechner der Teilnehmer:innen) gefiltert\n\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-3",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-3",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt I: Forschungsdesign - Datenspende-Tool",
+    "text": "Schritt I: Forschungsdesign - Datenspende-Tool\n\nTeilnehmer:innen laden DDPs hoch\nDaten werden lokal (d.h. auf Rechner der Teilnehmer:innen) gefiltert\nDaten werden lokal anonymisiert, z. B. über Whitelists\n\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-4",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-4",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt I: Forschungsdesign - Datenspende-Tool",
+    "text": "Schritt I: Forschungsdesign - Datenspende-Tool\n\nTeilnehmer:innen laden DDPs hoch\nDaten werden lokal (d.h. auf Rechner der Teilnehmer:innen) gefiltert\nDaten werden lokal anonymisiert, z. B. über Whitelists\nTeilnehmer:innen können Daten löschen\n\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-5",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-5",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt I: Forschungsdesign - Datenspende-Tool",
+    "text": "Schritt I: Forschungsdesign - Datenspende-Tool\n\nTeilnehmer:innen laden DDPs hoch\nDaten werden lokal (d.h. auf Rechner der Teilnehmer:innen) gefiltert\nDaten werden lokal anonymisiert, z. B. über Whitelists\nTeilnehmer:innen können Daten löschen\nnach informierter Einwilligung werden Daten an Server der Forscher:innen weitergeleitet"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-6",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---datenspende-tool-6",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt I: Forschungsdesign - Datenspende-Tool",
+    "text": "Schritt I: Forschungsdesign - Datenspende-Tool\nBeispiel: OSD2F (Araujo et al., 2022, S. 377)\n\nAraujo et al., 2022, S. 377"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-4",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-4",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt I: Forschungsdesign",
+    "text": "Schritt I: Forschungsdesign\nZentrale Entscheidungen:\n\nWelche theoretischen Fragen wollen & können wir beantworten?\nWelches Datenspende-Tool nutzen wir wie?\nWie wird die Datenspende in die Umfrage integriert?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-5",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-5",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt I: Forschungsdesign",
+    "text": "Schritt I: Forschungsdesign\nZentrale Entscheidungen:\n\nWelche theoretischen Fragen wollen & können wir beantworten?\nWelches Datenspende-Tool nutzen wir wie?\n\nKann das Tool relevante Daten datenschutzkonform extrahieren & anonymisieren?\nKönnen wir Skripte schnell an Veränderungen durch Plattformen anpassen?\n\nWie wird die Datenspende in die Umfrage integriert?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---umfrage",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---umfrage",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt I: Forschungsdesign - Umfrage",
+    "text": "Schritt I: Forschungsdesign - Umfrage\n\ngeläufiges Vorgehen: Weiterleiten an externe Seite\nneu: Integration in Umfragen, z. B. via SoSci Survey (Haim et al., 2023); ermöglicht Messwiederholungen, Incentivierung, Experimentaldesigns, etc.\n\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-1",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-1",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\n\nGrafik. Ablauf einer Datenspende-Studie - Perspektive der Forschung"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-2",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-2",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\nZentrale Entscheidungen:\n\n\nWie klassifizieren wir Inhalte?\nWie matchen & aggregieren wir Inhalte?\nWie testen wir für Verzerrungen?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-3",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-3",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\nZentrale Entscheidungen:\n\nWie klassifizieren wir Inhalte?\nWie matchen & aggregieren wir Inhalte?\nWie testen wir für Verzerrungen?\n\n👉 Übergreifendes Tutorial hierzu: Hase, V. (2023, Juli). Data Donations—Tutorial Automated Content Analysis. Link"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-4",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-4",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\nZentrale Entscheidungen:\n\nWie klassifizieren wir Inhalte?\nWie matchen & aggregieren wir Inhalte?\nWie testen wir für Verzerrungen?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---umfrage-1",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign---umfrage-1",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt I: Forschungsdesign - Umfrage",
+    "text": "Schritt I: Forschungsdesign - Umfrage\nDadurch dass Datenspenden aufwendig sind (und damit Verzerrungen begünstigen), stellen sich weitere Fragen nach…\n\nIncentivierung\nPlatzierung der Anfrage nach Datenspenden\nFormulierung der Bedeutsamkeit von Datenspenden"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung---klassifikation",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung---klassifikation",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Bereinigung - Klassifikation",
+    "text": "Schritt II: Bereinigung - Klassifikation\n\n\nAnonymisierung als erster Schritt der Klassifikation basiert zumeist auf Whitelists, d.h. z.B. Listen von Nachrichtenmedien 👉 Beispiel\nAber auch anschliessend müssen…\n\nDaten nachträglich via APIs gesammelt\nDaten via automatisierter Inhaltsanalyse klassifiziert werden"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung---klassifikation-1",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung---klassifikation-1",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Bereinigung - Klassifikation",
+    "text": "Schritt II: Bereinigung - Klassifikation\n\nGrafik. Beispiel eines Datenspende-Datensatzes"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-5",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-5",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\nZentrale Entscheidungen:\n\nWie klassifizieren wir Inhalte?\n\nNutzen wir automatisierte Methoden?\nWie definieren wir, theoretisch gesehen, Nachrichten?\n\nWie matchen & aggregieren wir Inhalte?\nWie testen wir für Verzerrungen?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung---matching-aggregation",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung---matching-aggregation",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Bereinigung - Matching & Aggregation",
+    "text": "Schritt II: Bereinigung - Matching & Aggregation\nMatching 🤝, d.h. Zusammenführung von Umfragedaten und Datenspuren (Munzert et al., 2023)\n\nmeist via anonymer ID (z.B. “Interviewnummer”)\nDaten sollten, soweit möglich, getrennt gespeichert werden"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-6",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-6",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\nZentrale Entscheidungen:\n\nWie klassifizieren wir Inhalte?\nWie matchen & aggregieren wir Inhalte?\nWie testen wir für Verzerrungen?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-7",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-7",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\nZentrale Entscheidungen:\n\nWie klassifizieren wir Inhalte?\nWie matchen & aggregieren wir Inhalte?\n\nWie gewährleisten wir die anonymisierte Verlinkung unterschiedlicher Daten?\nWelches Aggregationsniveau benötigen wir?\n\nWie testen wir für Verzerrungen?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung---verzerrungen",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung---verzerrungen",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Bereinigung - Verzerrungen",
+    "text": "Schritt II: Bereinigung - Verzerrungen\n\nVerzerrungen durch Fehler in Bezug auf Stichproben und Messungen, z.B.\n\nz.B. durch systematisches Drop-Out (Pak et al., 2022)\nz.B. durch maschinelles Lernen für Klassifikation (TeBlunthuis et al., 2023)"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-8",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-8",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\nZentrale Entscheidungen:\n\nWie klassifizieren wir Inhalte?\nWie matchen & aggregieren wir Inhalte?\nWie testen wir für Verzerrungen?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-auswertung",
+    "href": "05-study-researcher-perspective.html#schritt-ii-auswertung",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Auswertung",
+    "text": "Schritt II: Auswertung\n\nGrafik. Beispiel eines Datenspende-Datensatzes"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#zusammenfassung-datenspenden-studien-aus-sicht-der-forscherinnen",
+    "href": "05-study-researcher-perspective.html#zusammenfassung-datenspenden-studien-aus-sicht-der-forscherinnen",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Zusammenfassung: Datenspenden-Studien aus Sicht der Forscher:innen 📚",
+    "text": "Zusammenfassung: Datenspenden-Studien aus Sicht der Forscher:innen 📚\n\nZusammenfassung: Zentrale Schritte umfassen…\n\nForschungsdesign\nBereinigung\nAuswertung\n\nWeiterführende Literatur:\n\nDriel et al. (2022)\nBoeschoten et al. (2022)\nHaim et al. (2023)"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#section",
+    "href": "05-study-researcher-perspective.html#section",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "",
+    "text": "Welche methodischen Entscheidungen müssen Forscher:innen treffen, die Datenspende-Studien durchführen wollen? 🤔"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#section-2",
+    "href": "05-study-researcher-perspective.html#section-2",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "",
+    "text": "Digitale Datenspuren - JoFo/Wisskomm DGPuK 2023 - Valerie Hase\n\n\n\nAraujo, T., Ausloos, J., Atteveldt, W. van, Loecherbach, F., Moeller, J., Ohme, J., Trilling, D., Velde, B. van de, Vreese, C. de, & Welbers, K. (2022). OSD2F: An Open-Source Data Donation Framework. Computational Communication Research, 4(2), 372–387. https://doi.org/10.5117/CCR2022.2.001.ARAU\n\n\nBoeschoten, L., Mendrik, A., Van Der Veen, E., Vloothuis, J., Hu, H., Voorvaart, R., & Oberski, D. L. (2022). Privacy-preserving local analysis of digital trace data: A proof-of-concept. Patterns, 3(3), 100444. https://doi.org/10.1016/j.patter.2022.100444\n\n\nDriel, I. I. van, Giachanou, A., Pouwels, J. L., Boeschoten, L., Beyens, I., & Valkenburg, P. M. (2022). Promises and Pitfalls of Social Media Data Donations. Communication Methods and Measures, 1–17. https://doi.org/10.1080/19312458.2022.2109608\n\n\nHaim, M., Leiner, D., & Hase, V. (2023). Integrating Data Donations into Online Surveys. Medien & Kommunikationswissenschaft, 71(1-2), 130–137. https://doi.org/10.5771/1615-634X-2023-1-2-130\n\n\nMunzert, S., Ramirez-Ruiz, S., Watteler, O., Breuer, J., Batzdorfer, V., Eder, C., Wiltshire, D. A., Barberá, P., Guess, A. M., & Yang, J. (2023). Publishing Combined Web Tracking and Survey Data [Preprint]. Open Science Framework. https://doi.org/10.31219/osf.io/y4v8z\n\n\nPak, C., Cotter, K., & Thorson, K. (2022). Correcting Sample Selection Bias of Historical Digital Trace Data: Inverse Probability Weighting (IPW) and Type II Tobit Model. Communication Methods and Measures, 16(2), 134–155. https://doi.org/10.1080/19312458.2022.2037537\n\n\nParry, D. A., Davidson, B. I., Sewall, C. J. R., Fisher, J. T., Mieczkowski, H., & Quintana, D. S. (2021). A systematic review and meta-analysis of discrepancies between logged and self-reported digital media use. Nature Human Behaviour, 5(11), 1535–1547. https://doi.org/10.1038/s41562-021-01117-5\n\n\nPfiffner, N., Witlox, P., & Friemel, T. N. (2022). Data Donation Module. https://github.com/uzh/ddm\n\n\nReiss, M. V. (2022). Dissecting Non-Use of Online News – Systematic Evidence from Combining Tracking and Automated Text Classification. Digital Journalism, 1–21. https://doi.org/10.1080/21670811.2022.2105243\n\n\nScharkow, M. (2016). The Accuracy of Self-Reported Internet Use—A Validation Study Using Client Log Data. Communication Methods and Measures, 10(1), 13–27. https://doi.org/10.1080/19312458.2015.1118446\n\n\nTeBlunthuis, N., Hase, V., & Chan, C.-H. (2023). Misclassification in Automated Content Analysis Causes Bias in Regression. Can We Fix It? Yes We Can! https://doi.org/10.48550/ARXIV.2307.06483\n\n\nThorson, K., Cotter, K., Medeiros, M., & Pak, C. (2021). Algorithmic inference, political interest, and exposure to news and politics on Facebook. Information, Communication & Society, 24(2), 183–200. https://doi.org/10.1080/1369118X.2019.1642934"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-6",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-6",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt I: Forschungsdesign",
+    "text": "Schritt I: Forschungsdesign\nZentrale Entscheidungen:\n\nWelche theoretischen Fragen wollen & können wir beantworten?\nWelches Datenspende-Tool nutzen wir wie?\nWie wird die Datenspende in die Umfrage integriert?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-9",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-9",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\nZentrale Entscheidungen:\n\nWie klassifizieren wir Inhalte?\nWie matchen & aggregieren wir Inhalte?\nWie testen wir für Verzerrungen?\n\naktuell wenig adressiertes Problem in den Sozialwissenschaften\neher Quantifizierung als Adressierung"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#section-1",
+    "href": "05-study-researcher-perspective.html#section-1",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "",
+    "text": "Fragen? 🤔"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#section-3",
+    "href": "05-study-researcher-perspective.html#section-3",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "",
+    "text": "Digitale Datenspuren - JoFo/Wisskomm DGPuK 2023 - Valerie Hase\n\n\n\nAraujo, T., Ausloos, J., Atteveldt, W. van, Loecherbach, F., Moeller, J., Ohme, J., Trilling, D., Velde, B. van de, Vreese, C. de, & Welbers, K. (2022). OSD2F: An Open-Source Data Donation Framework. Computational Communication Research, 4(2), 372–387. https://doi.org/10.5117/CCR2022.2.001.ARAU\n\n\nBoeschoten, L., Mendrik, A., Van Der Veen, E., Vloothuis, J., Hu, H., Voorvaart, R., & Oberski, D. L. (2022). Privacy-preserving local analysis of digital trace data: A proof-of-concept. Patterns, 3(3), 100444. https://doi.org/10.1016/j.patter.2022.100444\n\n\nDriel, I. I. van, Giachanou, A., Pouwels, J. L., Boeschoten, L., Beyens, I., & Valkenburg, P. M. (2022). Promises and Pitfalls of Social Media Data Donations. Communication Methods and Measures, 1–17. https://doi.org/10.1080/19312458.2022.2109608\n\n\nHaim, M., Leiner, D., & Hase, V. (2023). Integrating Data Donations into Online Surveys. Medien & Kommunikationswissenschaft, 71(1-2), 130–137. https://doi.org/10.5771/1615-634X-2023-1-2-130\n\n\nMunzert, S., Ramirez-Ruiz, S., Watteler, O., Breuer, J., Batzdorfer, V., Eder, C., Wiltshire, D. A., Barberá, P., Guess, A. M., & Yang, J. (2023). Publishing Combined Web Tracking and Survey Data [Preprint]. Open Science Framework. https://doi.org/10.31219/osf.io/y4v8z\n\n\nPak, C., Cotter, K., & Thorson, K. (2022). Correcting Sample Selection Bias of Historical Digital Trace Data: Inverse Probability Weighting (IPW) and Type II Tobit Model. Communication Methods and Measures, 16(2), 134–155. https://doi.org/10.1080/19312458.2022.2037537\n\n\nParry, D. A., Davidson, B. I., Sewall, C. J. R., Fisher, J. T., Mieczkowski, H., & Quintana, D. S. (2021). A systematic review and meta-analysis of discrepancies between logged and self-reported digital media use. Nature Human Behaviour, 5(11), 1535–1547. https://doi.org/10.1038/s41562-021-01117-5\n\n\nPfiffner, N., Witlox, P., & Friemel, T. N. (2022). Data Donation Module. https://github.com/uzh/ddm\n\n\nReiss, M. V. (2022). Dissecting Non-Use of Online News – Systematic Evidence from Combining Tracking and Automated Text Classification. Digital Journalism, 1–21. https://doi.org/10.1080/21670811.2022.2105243\n\n\nScharkow, M. (2016). The Accuracy of Self-Reported Internet Use—A Validation Study Using Client Log Data. Communication Methods and Measures, 10(1), 13–27. https://doi.org/10.1080/19312458.2015.1118446\n\n\nTeBlunthuis, N., Hase, V., & Chan, C.-H. (2023). Misclassification in Automated Content Analysis Causes Bias in Regression. Can We Fix It? Yes We Can! https://doi.org/10.48550/ARXIV.2307.06483\n\n\nThorson, K., Cotter, K., Medeiros, M., & Pak, C. (2021). Algorithmic inference, political interest, and exposure to news and politics on Facebook. Information, Communication & Society, 24(2), 183–200. https://doi.org/10.1080/1369118X.2019.1642934"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-7",
+    "href": "05-study-researcher-perspective.html#schritt-i-forschungsdesign-7",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt I: Forschungsdesign",
+    "text": "Schritt I: Forschungsdesign\nZentrale Entscheidungen:\n\nWelche theoretischen Fragen wollen & können wir beantworten?\nWelches Datenspende-Tool nutzen wir wie?\nWie wird die Datenspende in die Umfrage integriert?\n\nWie können wir die Datenspende technisch so leicht wie möglich für Teilnehmer:innen machen?\nWelche Design-Strategien können wir nutzen, um Teilnehmer:innen für die Datenspende zu begeistern?"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung---klassifikation-2",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung---klassifikation-2",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Bereinigung - Klassifikation",
+    "text": "Schritt II: Bereinigung - Klassifikation\n\nGrafik. Beispiel eines Datenspende-Datensatzes"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung---klassifikation-3",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung---klassifikation-3",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Bereinigung - Klassifikation",
+    "text": "Schritt II: Bereinigung - Klassifikation\n\nAnonymisierung als erster Schritt der Klassifikation basiert zumeist auf Whitelists, d.h. z.B. Listen von Nachrichtenmedien 👉 Beispiel\nAber auch anschliessend müssen…\n\nDaten nachträglich via APIs gesammelt\nDaten via automatisierter Inhaltsanalyse klassifiziert werden\n\nFraglich ist, ob\n\nwir Nachrichten auf Basis ihrer Quelle (z.B. Nachrichtenaccounts) klassifizieren können (Reiss, 2022)\nbinäre Klassifikationen als Nachricht ja/nein überhaupt sinnvoll sind"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung---matching-aggregation-1",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung---matching-aggregation-1",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Bereinigung - Matching & Aggregation",
+    "text": "Schritt II: Bereinigung - Matching & Aggregation\nAggregation 👆, d.h. Zusammenfassung von Datenpunkten über Individuen oder Zeit (Munzert et al., 2023)\n\nzumeist notwendig für Analyse (und um Daten ggf. zu teilen)\naber: Aggregation kann grossen Einfluss auf Resultate haben"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-bereinigung-10",
+    "href": "05-study-researcher-perspective.html#schritt-ii-bereinigung-10",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Bereinigung",
+    "text": "Schritt II: Bereinigung\n\nGrafik. Beispiel eines Datenspende-Datensatzes"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#schritt-ii-auswertung-1",
+    "href": "05-study-researcher-perspective.html#schritt-ii-auswertung-1",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Schritt II: Auswertung",
+    "text": "Schritt II: Auswertung\n\ndeskriptive/inferenzstatistische Analysen, z.B.\n\num Unterschiede zwischen Befragungsdaten und digitalen Datenspuren zu verstehen (Parry et al., 2021; Scharkow, 2016)\num sozialwissenschaftliche Konzepte zu untersuchen (Thorson et al., 2021)"
+  },
+  {
+    "objectID": "02-einführung-datenspuren.html#quellen",
+    "href": "02-einführung-datenspuren.html#quellen",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Quellen",
+    "text": "Quellen\n\n\n\nDigitale Datenspuren - JoFo/Wisskomm DGPuK 2023 - Valerie Hase\n\n\n\nBruns, A. (2019). After the “APIcalypse”: Social media platforms and their fight against critical scholarly research. Information, Communication & Society, 22(11), 1544–1566. https://doi.org/10.1080/1369118X.2019.1637447\n\n\nBuehling, K. (2023). Message Deletion on Telegram: Affected Data Types and Implications for Computational Analysis. Communication Methods and Measures, 1–23. https://doi.org/10.1080/19312458.2023.2183188\n\n\nChristner, C., Urman, A., Adam, S., & Maier, M. (2022). Automated Tracking Approaches for Studying Online Media Use: A Critical Review and Recommendations. Communication Methods and Measures, 16(2), 79–95. https://doi.org/10.1080/19312458.2021.1907841\n\n\nDriel, I. I. van, Giachanou, A., Pouwels, J. L., Boeschoten, L., Beyens, I., & Valkenburg, P. M. (2022). Promises and Pitfalls of Social Media Data Donations. Communication Methods and Measures, 1–17. https://doi.org/10.1080/19312458.2022.2109608\n\n\nFreelon, D. (2018). Computational research in the post-API age. Political Communication, 35(4), 665–668. https://doi.org/10.1080/10584609.2018.1477506\n\n\nHaim, M., & Hase, V. (2023). Computational Methods und Tools für die Erhebung und Auswertung von Social-Media-Daten. In S. Stollfuß, L. Niebling, & F. Raczkowski (Eds.), Handbuch Digitale Medien und Methoden (pp. 1–20). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-36629-2_41-1\n\n\nHinds, J., & Joinson, A. N. (2018). What demographic attributes do our digital footprints reveal? A systematic review. PLOS ONE, 13(11), e0207112. https://doi.org/10.1371/journal.pone.0207112\n\n\nHo, J. C.-T. (2020). How biased is the sample? Reverse engineering the ranking algorithm of Facebook’s Graph application programming interface. Big Data & Society, 7(1), 205395172090587. https://doi.org/10.1177/2053951720905874\n\n\nHowison, J., Wiggins, A., & Crowston, K. (2011). Validity Issues in the Use of Social Network Analysis with Digital Trace Data. Journal of the Association for Information Systems, 12(12), 767–797. https://doi.org/10.17705/1jais.00282\n\n\nJünger, J. (2021). A brief history of APIs. In Handbook of Computational Social Science, Volume 2 (1st ed., pp. 17–32). Routledge. https://doi.org/10.4324/9781003025245-3\n\n\nJürgens, P., & Stark, B. (2022). Mapping Exposure Diversity: The Divergent Effects of Algorithmic Curation on News Consumption. Journal of Communication, jqac009. https://doi.org/10.1093/joc/jqac009\n\n\nKeusch, F., & Kreuter, F. (2021). Digital trace data. In Handbook of Computational Social Science, Volume 1 (1st ed., pp. 100–118). Routledge. https://doi.org/10.4324/9781003024583-8\n\n\nLuiten, A., Hox, J., & Leeuw, E. de. (2020). Survey Nonresponse Trends and Fieldwork Effort in the 21st Century: Results of an International Study across Countries and Surveys. Journal of Official Statistics, 36(3), 469–487. https://doi.org/10.2478/jos-2020-0025\n\n\nMitchell, R. (2018). Web scraping with Python: Collecting more data from the modern web (Second edition). O’Reilly.\n\n\nOhme, J., Araujo, T., Boeschoten, L., Freelon, D., Ram, N., Reeves, B. B., & Robinson, T. N. (2023). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. Communication Methods and Measures. https://doi.org/10.1080/19312458.2023.2181319\n\n\nOhme, J., Araujo, T., Vreese, C. H. de, & Piotrowski, J. T. (2021). Mobile data donations: Assessing self-report accuracy and sample biases with the iOS Screen Time function. Mobile Media & Communication, 9(2), 293–313. https://doi.org/10.1177/2050157920959106\n\n\nParry, D. A., Davidson, B. I., Sewall, C. J. R., Fisher, J. T., Mieczkowski, H., & Quintana, D. S. (2021). A systematic review and meta-analysis of discrepancies between logged and self-reported digital media use. Nature Human Behaviour, 5(11), 1535–1547. https://doi.org/10.1038/s41562-021-01117-5\n\n\nReiss, M. V. (2022). Dissecting Non-Use of Online News – Systematic Evidence from Combining Tracking and Automated Text Classification. Digital Journalism, 1–21. https://doi.org/10.1080/21670811.2022.2105243\n\n\nScharkow, M. (2016). The Accuracy of Self-Reported Internet Use—A Validation Study Using Client Log Data. Communication Methods and Measures, 10(1), 13–27. https://doi.org/10.1080/19312458.2015.1118446\n\n\nSchatto-Eckrodt, T. (2022). Hidden biases – The effects of unavailable content on Twitter on sampling quality. In Grenzen, Probleme und Lösungen bei der Stichprobenziehung (pp. 178–195). Halem.\n\n\nThorson, K., Cotter, K., Medeiros, M., & Pak, C. (2021). Algorithmic inference, political interest, and exposure to news and politics on Facebook. Information, Communication & Society, 24(2), 183–200. https://doi.org/10.1080/1369118X.2019.1642934\n\n\nWagner, M. W. (2023). Independence by permission. Science, 381(6656), 388–391. https://doi.org/10.1126/science.adi2430\n\n\nWu-Ouyang, B., & Chan, M. (2022). Overestimating or underestimating communication findings? Comparing self-reported with log mobile data by data donation method. Mobile Media & Communication, 205015792211371. https://doi.org/10.1177/20501579221137162\n\n\nYan, P., Schroeder, R., & Stier, S. (2022). Is there a link between climate change scepticism and populism? An analysis of web tracking and survey data from Europe and the US. Information, Communication & Society, 25(10), 1400–1439. https://doi.org/10.1080/1369118X.2020.1864005"
+  },
+  {
+    "objectID": "03-einführung-datenspenden.html#quellen",
+    "href": "03-einführung-datenspenden.html#quellen",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Quellen",
+    "text": "Quellen\n\n\n\nDigitale Datenspuren - JoFo/Wisskomm DGPuK 2023 - Valerie Hase\n\n\n\nBoeschoten, L., Mendrik, A., Van Der Veen, E., Vloothuis, J., Hu, H., Voorvaart, R., & Oberski, D. L. (2022). Privacy-preserving local analysis of digital trace data: A proof-of-concept. Patterns, 3(3), 100444. https://doi.org/10.1016/j.patter.2022.100444\n\n\nDriel, I. I. van, Giachanou, A., Pouwels, J. L., Boeschoten, L., Beyens, I., & Valkenburg, P. M. (2022). Promises and Pitfalls of Social Media Data Donations. Communication Methods and Measures, 1–17. https://doi.org/10.1080/19312458.2022.2109608\n\n\nEdelson, L., & McCoy, D. (2021). Facebook is obstructing our work on disinformation. Other researchers could be next. The Guardian. https://www.theguardian.com/technology/2021/aug/14/facebook-research-disinformation-politics\n\n\nHaim, M., & Hase, V. (2023). Computational Methods und Tools für die Erhebung und Auswertung von Social-Media-Daten. In S. Stollfuß, L. Niebling, & F. Raczkowski (Eds.), Handbuch Digitale Medien und Methoden (pp. 1–20). Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-658-36629-2_41-1\n\n\nOhme, J., Araujo, T., Boeschoten, L., Freelon, D., Ram, N., Reeves, B. B., & Robinson, T. N. (2023). Digital Trace Data Collection for Social Media Effects Research: APIs, Data Donation, and (Screen) Tracking. Communication Methods and Measures. https://doi.org/10.1080/19312458.2023.2181319\n\n\nWu-Ouyang, B., & Chan, M. (2022). Overestimating or underestimating communication findings? Comparing self-reported with log mobile data by data donation method. Mobile Media & Communication, 205015792211371. https://doi.org/10.1177/20501579221137162"
+  },
+  {
+    "objectID": "04-study-user-perspective.html#quellen",
+    "href": "04-study-user-perspective.html#quellen",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Quellen",
+    "text": "Quellen\n\n\n\nDigitale Datenspuren - JoFo/Wisskomm DGPuK 2023 - Valerie Hase\n\n\n\nBoeschoten, L., Mendrik, A., Van Der Veen, E., Vloothuis, J., Hu, H., Voorvaart, R., & Oberski, D. L. (2022). Privacy-preserving local analysis of digital trace data: A proof-of-concept. Patterns, 3(3), 100444. https://doi.org/10.1016/j.patter.2022.100444\n\n\nDriel, I. I. van, Giachanou, A., Pouwels, J. L., Boeschoten, L., Beyens, I., & Valkenburg, P. M. (2022). Promises and Pitfalls of Social Media Data Donations. Communication Methods and Measures, 1–17. https://doi.org/10.1080/19312458.2022.2109608\n\n\nGil-López, T., Christner, C., León, E. de, Makhortykh, M., Urman, A., Maier, M., & Adam, S. (2023). Do (Not!) Track Me: Relationship Between Willingness to Participate and Sample Composition in Online Information Behavior Tracking Research. Social Science Computer Review, 089443932311566. https://doi.org/10.1177/08944393231156634\n\n\nHase, V., Ausloos, J., Boeschoten, L., Pfiffner, N., Janssen, H., Araujo, T., Breuer, J., Carriere, T., Vreese, C. de, Hassler, J., Kmetty, Z., Knudsen, E., Möller, J., Oberski, D., Ohme, J., Orben, A., Schmidbauer, E., Struminskaya, B., Trilling, D., … Haim, M. (2023). Fulfilling their data access obligations: Platforms need to increase their compliance to enable data donation studies.\n\n\nKeusch, F., Struminskaya, B., Antoun, C., Couper, M. P., & Kreuter, F. (2019). Willingness to Participate in Passive Mobile Data Collection. Public Opinion Quarterly, 83(S1), 210–235. https://doi.org/10.1093/poq/nfz007\n\n\nSilber, H., Breuer, J., Beuthner, C., Gummer, T., Keusch, F., Siegers, P., Stier, S., & Weiß, B. (2022). Linking Surveys and Digital Trace Data: Insights From two Studies on Determinants of Data Sharing Behaviour. Journal of the Royal Statistical Society Series A: Statistics in Society, 185(Supplement_2), S387–S407. https://doi.org/10.1111/rssa.12954\n\n\nSilber, H., Gerdon, F., Bach, R., Kern, C., Keusch, F., & Kreuter, F. (2022). A preregistered vignette experiment on determinants of health data sharing behavior: Willingness to donate sensor data, medical records, and biomarkers. Politics and the Life Sciences, 1–21. https://doi.org/10.1017/pls.2022.15"
+  },
+  {
+    "objectID": "05-study-researcher-perspective.html#quellen",
+    "href": "05-study-researcher-perspective.html#quellen",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Quellen",
+    "text": "Quellen\n\n\n\nDigitale Datenspuren - JoFo/Wisskomm DGPuK 2023 - Valerie Hase\n\n\n\nAraujo, T., Ausloos, J., Atteveldt, W. van, Loecherbach, F., Moeller, J., Ohme, J., Trilling, D., Velde, B. van de, Vreese, C. de, & Welbers, K. (2022). OSD2F: An Open-Source Data Donation Framework. Computational Communication Research, 4(2), 372–387. https://doi.org/10.5117/CCR2022.2.001.ARAU\n\n\nBoeschoten, L., Mendrik, A., Van Der Veen, E., Vloothuis, J., Hu, H., Voorvaart, R., & Oberski, D. L. (2022). Privacy-preserving local analysis of digital trace data: A proof-of-concept. Patterns, 3(3), 100444. https://doi.org/10.1016/j.patter.2022.100444\n\n\nDriel, I. I. van, Giachanou, A., Pouwels, J. L., Boeschoten, L., Beyens, I., & Valkenburg, P. M. (2022). Promises and Pitfalls of Social Media Data Donations. Communication Methods and Measures, 1–17. https://doi.org/10.1080/19312458.2022.2109608\n\n\nHaim, M., Leiner, D., & Hase, V. (2023). Integrating Data Donations into Online Surveys. Medien & Kommunikationswissenschaft, 71(1-2), 130–137. https://doi.org/10.5771/1615-634X-2023-1-2-130\n\n\nMunzert, S., Ramirez-Ruiz, S., Watteler, O., Breuer, J., Batzdorfer, V., Eder, C., Wiltshire, D. A., Barberá, P., Guess, A. M., & Yang, J. (2023). Publishing Combined Web Tracking and Survey Data [Preprint]. Open Science Framework. https://doi.org/10.31219/osf.io/y4v8z\n\n\nPak, C., Cotter, K., & Thorson, K. (2022). Correcting Sample Selection Bias of Historical Digital Trace Data: Inverse Probability Weighting (IPW) and Type II Tobit Model. Communication Methods and Measures, 16(2), 134–155. https://doi.org/10.1080/19312458.2022.2037537\n\n\nParry, D. A., Davidson, B. I., Sewall, C. J. R., Fisher, J. T., Mieczkowski, H., & Quintana, D. S. (2021). A systematic review and meta-analysis of discrepancies between logged and self-reported digital media use. Nature Human Behaviour, 5(11), 1535–1547. https://doi.org/10.1038/s41562-021-01117-5\n\n\nPfiffner, N., Witlox, P., & Friemel, T. N. (2022). Data Donation Module. https://github.com/uzh/ddm\n\n\nReiss, M. V. (2022). Dissecting Non-Use of Online News – Systematic Evidence from Combining Tracking and Automated Text Classification. Digital Journalism, 1–21. https://doi.org/10.1080/21670811.2022.2105243\n\n\nScharkow, M. (2016). The Accuracy of Self-Reported Internet Use—A Validation Study Using Client Log Data. Communication Methods and Measures, 10(1), 13–27. https://doi.org/10.1080/19312458.2015.1118446\n\n\nTeBlunthuis, N., Hase, V., & Chan, C.-H. (2023). Misclassification in Automated Content Analysis Causes Bias in Regression. Can We Fix It? Yes We Can! https://doi.org/10.48550/ARXIV.2307.06483\n\n\nThorson, K., Cotter, K., Medeiros, M., & Pak, C. (2021). Algorithmic inference, political interest, and exposure to news and politics on Facebook. Information, Communication & Society, 24(2), 183–200. https://doi.org/10.1080/1369118X.2019.1642934"
+  },
+  {
+    "objectID": "06-wrap-up.html#wo-werden-sich-datenspende-studien-hinentwickeln",
+    "href": "06-wrap-up.html#wo-werden-sich-datenspende-studien-hinentwickeln",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "1) Wo werden sich Datenspende-Studien hinentwickeln?",
+    "text": "1) Wo werden sich Datenspende-Studien hinentwickeln?\n\nQuelle: Foto von Markus Winkler auf Unsplash"
+  },
+  {
+    "objectID": "06-wrap-up.html#zukunftsperspektive-i-neue-datentypen",
+    "href": "06-wrap-up.html#zukunftsperspektive-i-neue-datentypen",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Zukunftsperspektive I: Neue Datentypen",
+    "text": "Zukunftsperspektive I: Neue Datentypen\n\nNeue Plattformen 👩‍💻\nMultimodale Daten 📸"
+  },
+  {
+    "objectID": "06-wrap-up.html#zukunftsperspektive-ii-politische-debatten-für-datenspenden",
+    "href": "06-wrap-up.html#zukunftsperspektive-ii-politische-debatten-für-datenspenden",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Zukunftsperspektive II: Politische Debatten für Datenspenden",
+    "text": "Zukunftsperspektive II: Politische Debatten für Datenspenden\n\nAnstehende Implementierung des Digital Services Act (Hase et al., 2023)\nDruck auf Plattformen, Daten in Einklang mit bestehendem Recht bereitzustellen"
+  },
+  {
+    "objectID": "06-wrap-up.html#zukunftsperspektive-iii-kritische-perspektive-auf-datenspenden",
+    "href": "06-wrap-up.html#zukunftsperspektive-iii-kritische-perspektive-auf-datenspenden",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Zukunftsperspektive III: Kritische Perspektive auf Datenspenden",
+    "text": "Zukunftsperspektive III: Kritische Perspektive auf Datenspenden\n\naktuell mehr methodisches “Spielfeld”: Können wir mit der Methode theoretisch substanzielle Fragestellungen beantworten?\ndafür braucht es interdisziplinäre Perspektiven auf…\n\nStrategien gegen Verzerrungen (z.B. statistische Methoden, Verankerung in probabilistischen Panels)\nForschungsinfrastrukturen (Strippel et al., 2023)"
+  },
+  {
+    "objectID": "06-wrap-up.html#zusammenfassung-datenspenden-studien",
+    "href": "06-wrap-up.html#zusammenfassung-datenspenden-studien",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Zusammenfassung: Datenspenden-Studien 📚",
+    "text": "Zusammenfassung: Datenspenden-Studien 📚\n\n✅ akkuratere Messungen durch Zeitstempel\n✅ z.T. Messung neuer Variablen (z.B. zu algorithmischer Inferenz)\n✅ zusätzliche Datenquellen neben APIs, Tracking, etc.\n❌ weiterhin Verzerrungen durch Stichproben- und Messfehler\n❌ unklare theoretische Rückbindung\n❌ (bisher) fehlende Umsetzung für substanzielle theoretische Fragen"
+  },
+  {
+    "objectID": "06-wrap-up.html#euer-feedback",
+    "href": "06-wrap-up.html#euer-feedback",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Euer Feedback 🙃",
+    "text": "Euer Feedback 🙃\n\n1 Satz, was euch gut gefallen hat/im Workshop weiterbehalten werden soll\n1 Satz, was euch nicht gut gefallen hat/im Workshop verändert werden soll"
+  },
+  {
+    "objectID": "06-wrap-up.html#quellen",
+    "href": "06-wrap-up.html#quellen",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Quellen",
+    "text": "Quellen\n\n\n\nDigitale Datenspuren - JoFo/Wisskomm DGPuK 2023 - Valerie Hase\n\n\n\nHase, V., Ausloos, J., Boeschoten, L., Pfiffner, N., Janssen, H., Araujo, T., Breuer, J., Carriere, T., Vreese, C. de, Hassler, J., Kmetty, Z., Knudsen, E., Möller, J., Oberski, D., Ohme, J., Orben, A., Schmidbauer, E., Struminskaya, B., Trilling, D., … Haim, M. (2023). Fulfilling their data access obligations: Platforms need to increase their compliance to enable data donation studies.\n\n\nStrippel, C., Breuer, J., Fürst, S., Koenen, E., Prandner, D., & Schwarzenegger, C. (2023). Editorial: Data, archives, and tools: Introducing new publication formats on infrastructures and resources for communication and media research. Publizistik, s11616-023-00806-7. https://doi.org/10.1007/s11616-023-00806-7"
+  },
+  {
+    "objectID": "06-wrap-up.html#section",
+    "href": "06-wrap-up.html#section",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "",
+    "text": "Fragen? 🤔"
+  },
+  {
+    "objectID": "06-wrap-up.html#section-1",
+    "href": "06-wrap-up.html#section-1",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "",
+    "text": "Danke 🙌"
   }
 ]
