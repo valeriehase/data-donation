@@ -29,7 +29,7 @@ Sitzung 2️⃣: **Einführung: digitale Datenspuren**
 -   [Folien - HTML](docs/02-einführung-datenspuren.html)
 -   [Folien - PDF](pdf/02-einführung-datenspuren.pdf)
 
-Sitzung 3️⃣: **Einführung:Datenspenden**
+Sitzung 3️⃣: **Einführung: Datenspenden**
 
 -   [Folien - HTML](docs/03-einführung-datenspenden.html)
 -   [Folien - PDF](pdf/03-einführung-datenspenden.pdf)
@@ -38,6 +38,7 @@ Sitzung 4️⃣: **Datenspenden in der Praxis: Forschungsdesign & Analyse**
 
 -   [Folien - HTML](docs/04-example-study.html)
 -   [Folien - PDF](pdf/04-example-study.pdf)
+-   [Anleitung Download Daten - Facebook](pdf/04-anleitung-facebook.pdf)
 -   [R Projekt & Daten](data/03-example-study.zip)
 
 Sitzung 5️⃣: **Wrap-Up**

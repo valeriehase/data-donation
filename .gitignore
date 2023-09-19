@@ -6,3 +6,4 @@
 .Renviron
 .DS_Store
 /.quarto/
+/site_libs
