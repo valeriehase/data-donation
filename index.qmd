@@ -45,8 +45,7 @@ Sitzung 4️⃣: **Datenspende-Studien aus Sicht von Nutzer:innen**
 Sitzung 5️⃣: **Datenspende-Studien aus Sicht von Forscher:innen**
 
 -   [Folien - HTML](docs/05-study-researcher-perspective.html)
--   [Folien - PDF](pdf/05-researcher-perspective.pdf)
--   [R Projekt & Daten](data/05-example-study.zip)
+-   [Folien - PDF](pdf/05-study-researcher-perspective.pdf)
 
 Sitzung 6️⃣: **Wrap-Up**
 
