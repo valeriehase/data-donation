@@ -95,7 +95,7 @@ DDPs unterschiedlich stark standardisiert [@hase_fulfilling_2023]:
 👉 Beispiel-Demonstration mit Pycharm & DDT *OSD2F* (lokal, nicht auf Server): [Anleitung lokale Version von OSD2F](data/Demo DDT.zip)
 
 -   Wir schauen uns (lokal laufendes) Beispiel eines DDTs an [@araujo_osd2f_2022; @haim_integrating_2023]
--   Beispiel ohne Servereinbindung (d.h. nur lokal) und ohne adjustierte Extrahierung/Whitelisting
+-   Beispiel ohne Servereinbindung (d.h. nur lokal) und ohne adjustierte Extrahierung von Dateien bzw. Anonymisierung durch (weiteres) Whitelisting
 
 ## 
 

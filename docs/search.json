@@ -942,7 +942,7 @@
     "href": "06-wrap-up.html#zukunftsperspektive-i-neue-datentypen",
     "title": "Digitale Datenspuren: Workshop",
     "section": "Zukunftsperspektive I: Neue Datentypen",
-    "text": "Zukunftsperspektive I: Neue Datentypen\n\nNeue Plattformen 👩‍💻\nMultimodale Daten 📸"
+    "text": "Zukunftsperspektive I: Neue Datentypen\n\nNeue Plattformen 👩‍💻 (z.B. TikTok)\nMultimodale Daten 📸\n\naber damit auch neue Herausforderungen, u.a. …\n\n\nWie können wir Fotos, Videos oder Audiodateien anonymisieren?\nWie können wir DDPs “plattformagnostisch” anfragen und DDTs “platformagnostisch” bauen?"
   },
   {
     "objectID": "06-wrap-up.html#zukunftsperspektive-ii-politische-debatten-für-datenspenden",
@@ -998,6 +998,20 @@
     "href": "04-study-user-perspective.html#schritt-iii-datenspende-2",
     "title": "Digitale Datenspuren: Workshop",
     "section": "Schritt III: Datenspende",
-    "text": "Schritt III: Datenspende\n👉 Beispiel-Demonstration mit Pycharm & DDT OSD2F (lokal, nicht auf Server): Anleitung lokale Version von OSD2F\n\nWir schauen uns (lokal laufendes) Beispiel eines DDTs an (Araujo et al., 2022; Haim et al., 2023)\nBeispiel ohne Servereinbindung (d.h. nur lokal) und ohne adjustierte Extrahierung/Whitelisting"
+    "text": "Schritt III: Datenspende\n👉 Beispiel-Demonstration mit Pycharm & DDT OSD2F (lokal, nicht auf Server): Anleitung lokale Version von OSD2F\n\nWir schauen uns (lokal laufendes) Beispiel eines DDTs an (Araujo et al., 2022; Haim et al., 2023)\nBeispiel ohne Servereinbindung (d.h. nur lokal) und ohne adjustierte Extrahierung von Dateien bzw. Anonymisierung durch (weiteres) Whitelisting"
+  },
+  {
+    "objectID": "06-wrap-up.html#zukunftsperspektive-ii-politische-debatten-rund-um-den-dsa",
+    "href": "06-wrap-up.html#zukunftsperspektive-ii-politische-debatten-rund-um-den-dsa",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Zukunftsperspektive II: Politische Debatten rund um den DSA",
+    "text": "Zukunftsperspektive II: Politische Debatten rund um den DSA\n\nAnstehende Implementierung des Digital Services Act (Hase et al., 2023)\nDruck auf Plattformen, Daten in Einklang mit bestehendem Recht bereitzustellen\n\naber damit auch neue Herausforderungen, u.a. …\n\n\nWer prüft und sanktioniert, ob Plattformen ihrer Pflicht, Daten bereitzustellen, nachkommen?\nWelche Daten wollen und brauchen wir aus sozialwissenschaftlicer Perspektive überhaupt?"
+  },
+  {
+    "objectID": "06-wrap-up.html#zukunftsperspektive-iii-kritische-perspektive-auf-empirische-anwendung",
+    "href": "06-wrap-up.html#zukunftsperspektive-iii-kritische-perspektive-auf-empirische-anwendung",
+    "title": "Digitale Datenspuren: Workshop",
+    "section": "Zukunftsperspektive III: Kritische Perspektive auf empirische Anwendung",
+    "text": "Zukunftsperspektive III: Kritische Perspektive auf empirische Anwendung\n\n\naktuell Datenspenden mehr methodisches “Spielfeld” (z.B. im Hinblick auf DDTs, Bias)\nhier braucht es interdisziplinäre Perspektiven auf…\n\nStrategien gegen Verzerrungen (z.B. statistische Methoden, Verankerung in probabilistischen Panels)\nForschungsinfrastrukturen (Strippel et al., 2023)\n\ndarüber hinaus: 👉 Relevanz der Methode wird sich an ihrem empirischen Beitrag zur Beantwortung substanzieller sozial- bzw. kommunikationswissenschaftlicher Fragen messen lassen müssen"
   }
 ]

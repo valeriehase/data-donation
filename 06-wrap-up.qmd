@@ -37,25 +37,43 @@ Valerie Hase (Ludwig-Maximilians-Universität München)
 
 ## Zukunftsperspektive I: Neue Datentypen
 
--   Neue Plattformen 👩‍💻
+-   Neue Plattformen 👩‍💻 (z.B. TikTok)
 
 -   Multimodale Daten 📸
 
-## Zukunftsperspektive II: Politische Debatten für Datenspenden
+aber damit auch neue Herausforderungen, u.a. ...
+
+::: incremental
+-   Wie können wir Fotos, Videos oder Audiodateien anonymisieren?
+-   Wie können wir DDPs "plattformagnostisch" anfragen und DDTs "platformagnostisch" bauen?
+:::
+
+## Zukunftsperspektive II: Politische Debatten rund um den DSA
 
 -   Anstehende Implementierung des Digital Services Act [@hase_fulfilling_2023]
 
 -   Druck auf Plattformen, Daten in Einklang mit bestehendem Recht bereitzustellen
 
-## Zukunftsperspektive III: Kritische Perspektive auf Datenspenden
+aber damit auch neue Herausforderungen, u.a. ...
 
--   aktuell mehr methodisches "Spielfeld": Können wir mit der Methode theoretisch substanzielle Fragestellungen beantworten?
+::: incremental
+-   Wer prüft und sanktioniert, ob Plattformen ihrer Pflicht, Daten bereitzustellen, nachkommen?
+-   Welche Daten wollen und brauchen wir aus sozialwissenschaftlicer Perspektive überhaupt?
+:::
 
--   dafür braucht es interdisziplinäre Perspektiven auf...
+## Zukunftsperspektive III: Kritische Perspektive auf empirische Anwendung
+
+::: incremental
+-   aktuell Datenspenden mehr methodisches "Spielfeld" (z.B. im Hinblick auf DDTs, Bias)
+
+-   hier braucht es interdisziplinäre Perspektiven auf...
 
     -   Strategien gegen Verzerrungen (z.B. statistische Methoden, Verankerung in probabilistischen Panels)
 
     -   Forschungsinfrastrukturen [@strippel_editorial_2023]
+    
+-   darüber hinaus: 👉 Relevanz der Methode wird sich an ihrem empirischen **Beitrag zur Beantwortung substanzieller sozial- bzw. kommunikationswissenschaftlicher Fragen** messen lassen müssen
+:::
 
 ## Zusammenfassung: Datenspenden-Studien 📚
 
