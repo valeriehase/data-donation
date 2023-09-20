@@ -38,7 +38,7 @@ Sitzung 4️⃣: **Datenspende-Studien aus Sicht von Nutzer:innen**
 
 -   [Folien - HTML](docs/04-study-user-perspective.html)
 -   [Folien - PDF](pdf/04-study-user-perspective.pdf)
--   [Beispiel - lokale Version von OSD2F](data/DDT.zip)
+-   [Beispiel - lokale Version von OSD2F](data/Demo DDT.zip)
 -   [Anleitung Download Daten - Facebook](pdf/04-anleitung-facebook.pdf)
 -   [Anleitung Download Daten - Instagram](pdf/04-anleitung-instagram.pdf)
 

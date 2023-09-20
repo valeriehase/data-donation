@@ -90,7 +90,12 @@ DDPs unterschiedlich stark standardisiert [@hase_fulfilling_2023]:
 
 ![Grafik. Ablauf einer Datenspende-Studie - Perspektive der Nutzer:innen](images/ablauf-3a.jpg){fig-alt="process of data donation study" fig-align="left" width="300"}
 
-👉 Beispiel-Demonstration mit Pycharm & DDT *OSD2F* (lokal, nicht auf Server): [Anleitung lokale Version von OSD2F](data/DDT.zip)
+## Schritt III: Datenspende
+
+👉 Beispiel-Demonstration mit Pycharm & DDT *OSD2F* (lokal, nicht auf Server): [Anleitung lokale Version von OSD2F](data/Demo DDT.zip)
+
+-   Wir schauen uns (lokal laufendes) Beispiel eines DDTs an [@araujo_osd2f_2022; @haim_integrating_2023]
+-   Beispiel ohne Servereinbindung (d.h. nur lokal) und ohne adjustierte Extrahierung/Whitelisting
 
 ## 
 
